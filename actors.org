@@ -1,0 +1,97 @@
+
+
+* About this FAQ
+
+Fork me on Github: https://github.com/sebffvr/faq-moviewood
+
+Uploaded to GameFaqs 2015-03-22 by sebffvr
+
+* Actor Star Values
+
+(Incomplete / in Progress)
+
+Stars for the actor in 
+
+- Action (Act)
+- Adventure (Adv)
+- Biography (Bio)
+- Comedy (Com)
+- Crime (Cri)
+- Drama (Dra)
+- Fantasy (Fan)
+- Horror (Hor)
+- Mystery (Mys)
+- Romance (Rom)
+- Science Fiction (SF)
+- Thriller (Thr)
+- War (War)
+
+with the actor's total star Sum at the end.
+
+|---------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+----+-----+-----+-----|
+| Actor         | Act | Adv | Bio | Com | Cri | Dra | Fan | Hor | Mys | Rom | SF | Thr | War | Sum |
+|---------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+----+-----+-----+-----|
+| Al Paco       |     |     |     |     |   1 |   2 |     |     |     |     |    |     |     |   3 |
+| Maddy Rove    |     |     |     |     |     |     |     |     |     |     |    |   2 |   3 |   5 |
+| Molly Cherry  |     |   3 |     |     |     |     |     |     |   3 |     |    |     |     |   6 |
+| Tim Diamond   |   3 |     |     |     |     |   3 |     |     |     |     |    |     |     |   6 |
+| Gwen Patrol   |     |     |     |     |     |     |     |     |     |   2 |    |   4 |     |   6 |
+| Isaak Jones   |     |   4 |     |     |     |     |     |   2 |     |     |    |     |     |   6 |
+| John Dippo    |     |     |     |     |     |     |   3 |   3 |     |     |    |     |     |   6 |
+| Amy Termin    |     |     |     |     |   3 |   3 |     |     |     |     |    |     |     |   6 |
+| Dug Michaels  |     |     |     |     |     |     |     |     |   3 |     |    |   3 |     |   6 |
+| H Fordisson   |     |   3 |     |     |     |     |     |     |     |     |  3 |     |     |   6 |
+| M-G Chlori    |     |     |     |   2 |     |     |   2 |     |     |     |    |     |     |   4 |
+| Jack China    |   3 |     |     |   3 |     |     |     |     |     |     |    |     |     |   6 |
+| Rad Dedcliff  |     |     |     |     |     |     |   2 |   3 |     |     |    |     |     |   5 |
+| H-B Cartem    |     |     |     |     |     |   2 |   2 |     |     |     |    |     |     |   4 |
+| Debi More     |   3 |     |     |     |     |     |     |     |   2 |     |    |     |     |   5 |
+| J Halfman     |     |     |     |   2 |     |   2 |     |     |     |     |    |     |     |   4 |
+| K Singer      |     |     |     |     |   2 |     |     |     |     |   2 |    |     |     |   4 |
+| Rick Sway     |     |     |     |     |     |     |     |     |   2 |   3 |    |     |     |   5 |
+| Ben der Polo  |     |     |     |     |   2 |     |     |     |     |     |    |   2 |     |   4 |
+| C Blondett    |     |     |   2 |     |     |     |     |     |   1 |     |    |     |     |   3 |
+| Wonna Etson   |     |   1 |     |     |     |     |   1 |     |     |     |    |     |     |   2 |
+| Mich. RiZotto |     |   2 |     |     |     |     |     |     |     |   1 |    |     |     |   3 |
+| Penny Rooks   |     |     |     |     |     |   1 |     |     |   2 |     |    |     |     |   3 |
+| Ross Crowell  |     |   1 |   2 |     |     |     |     |     |     |     |    |     |     |   3 |
+| G Silverbloom |     |     |     |     |     |     |     |     |     |     |  2 |   1 |     |   3 |
+| A Jenniston   |     |     |     |   1 |     |     |     |     |     |   2 |    |     |     |   3 |
+| Dylon Joe     |     |     |     |     |     |     |     |     |     |   2 |    |   2 |     |   4 |
+| Maggie Foxie  |   1 |     |     |     |     |     |     |     |     |     |  2 |     |     |   3 |
+| Peggy Ellens  |     |     |     |   1 |     |     |     |     |     |     |    |   1 |     |   2 |
+| Becky Sale    |     |     |     |     |     |     |   1 |     |     |     |    |     |   1 |   2 |
+| Ross Curtell  |     |     |     |     |     |     |     |   1 |     |     |  1 |     |     |   2 |
+| B Restling    |   1 |     |     |     |   2 |     |     |     |     |     |    |     |     |   3 |
+| B Dromor      |     |   2 |     |   3 |     |     |     |     |     |     |    |     |     |   5 |
+| Bill Smith    |   3 |     |     |     |     |     |   2 |     |     |     |    |     |     |   5 |
+| Lisa Ferum    |     |     |   2 |     |   2 |     |     |     |     |     |    |     |     |   4 |
+| Tyllia Live   |     |   2 |     |     |     |     |     |     |     |     |  2 |     |     |   4 |
+#+TBLFM: $15=vsum($2..$14)
+
+* Alias
+
+(I am not into celebrities. Incomplete and possibly wrong.) 
+
+|---------------------+--------------------------|
+| Moviewood name      | Ripoff (sorry, "homage") |
+|---------------------+--------------------------|
+| Jade Faster         | Judy Foster              |
+| Catie Blondett      | Kate Blanchett           |
+| Annie Jenniston     | Jennifer Anniston        |
+| Ross Crowell        | Russell Crowe            |
+| Al Paco             | Al Pacino                |
+| Geoffry Silverbloom | Jeff Goldblum            |
+| Ross Curtell        | Kurt Russell             |
+| Bill Smith          | Will Smith               |
+| Tyllia Live         | Liv Tyler                |
+| Justin Halfman      | Dustin Hoffman           |
+| Ben der Polo        | Benicio del Toro         |
+| Helena Bynom Cartem | Helena Bonham Cartem     |
+| Debi More           | Demi Moore               |
+| Jack China          | Jackie Chan              |
+| Dug Michaels        | Michael Douglas          |
+| Harry Fordisson     | Harrisson Ford           |
+| Gwen Patrol         | Gwyneth Paltrow          |
+| John Dippo          | Johnny Depp              |
+|                     |                          |
