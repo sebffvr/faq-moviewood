@@ -1,0 +1,125 @@
+
+* Props required to upgrade Scenes
+
+In addition to the props listed,
+
+- 1 blueprint is needed to upgrade to level 3
+- 2 blueprints are needed to upgrade to level 4
+- 3 blueprints are needed to upgrade to level 5
+
+
+** Template
+
+|-----+--------+--------+--------+--------|
+| Lv. | Prop 1 | Prop 2 | Prop 3 | Prop 4 |
+|-----+--------+--------+--------+--------|
+|   1 |        |        |        |        |
+|   2 |        |        |        |        |
+|   3 |        |        |        |        |
+|   4 |        |        |        |        |
+|   5 |        |        |        |        |
+
+** Broken Flier
+
+|-----+-------------+----------------|
+| Lv. | Prop 1      | Prop 2         |
+|-----+-------------+----------------|
+|   1 | Blaster x 1 |                |
+|   2 | Mummy x 2   | Lightsaber x 2 |
+|     |             |                |
+
+** Children's Room 
+
+|-----+------------------+---------------+--------+--------|
+| Lv. | Prop 1           | Prop 2        | Prop 3 | Prop 4 |
+|-----+------------------+---------------+--------+--------|
+|   1 | Videotape x 1    |               |        |        |
+|   2 | Perambulator x 2 | Chocolate x 2 |        |        |
+|   3 |                  |               |        |        |
+|   4 |                  |               |        |        |
+|   5 |                  |               |        |        |
+
+** The Grand Staircase
+
+|-----+--------------+---------+--------+--------|
+| Lv. | Prop 1       | Prop 2  | Prop 3 | Prop 4 |
+|-----+--------------+---------+--------+--------|
+|   1 | Pendant x 1  |         |        |        |
+|   2 | Ice pick x 3 | Bat x 1 |        |        |
+|   3 |              |         |        |        |
+|   4 |              |         |        |        |
+|   5 |              |         |        |        |
+
+** Lost Hut
+
+|-----+-----------+----------+----------+----------|
+| Lv. | Prop 1    | Prop 2   | Prop 3   | Prop 4   |
+|-----+-----------+----------+----------+----------|
+|   1 |           |          |          |          |
+|   2 |           |          |          |          |
+|   3 |           |          |          |          |
+|   4 |           |          |          |          |
+|   5 | Badge x 3 | Mask x 3 | Pipe x 3 | Whip x 3 |
+|     |           |          |          |          |
+** Wreckage
+
+|-----+---------------------+-----------------+-------------------+--------|
+| Lv. | Prop 1              | Prop 2          | Prop 3            | Prop 4 |
+|-----+---------------------+-----------------+-------------------+--------|
+|   1 |                     |                 |                   |        |
+|   2 |                     |                 |                   |        |
+|   3 |                     |                 |                   |        |
+|   4 | Fogged-up Glass x 7 | Plush Heart x 9 | Chocolate Bar x 9 |        |
+|   5 |                     |                 |                   |        |
+
+** Flyaway House
+
+|-----+---------------+----------------+-------------+--------|
+| Lv. | Prop 1        | Prop 2         | Prop 3      | Prop 4 |
+|-----+---------------+----------------+-------------+--------|
+|   1 | Badge x 1     |                |             |        |
+|   2 | Baseball x 3  | Shell x 3      |             |        |
+|   3 |               |                |             |        |
+|   4 | Batteries x 5 | Air Bottle x 5 | Balloon x 5 |        |
+|   5 |               |                |             |        |
+
+** Bathyscaph
+
+|-----+--------+--------+--------+--------|
+| Lv. | Prop 1 | Prop 2 | Prop 3 | Prop 4 |
+|-----+--------+--------+--------+--------|
+|   1 |        |        |        |        |
+|   2 |        |        |        |        |
+|   3 |        |        |        |        |
+|   4 |        |        |        |        |
+|   5 |        |        |        |        |
+
+** Stone Gate
+
+|-----+------------------+--------------+-----------------+-----------------------|
+| Lv. | Prop 1           | Prop 2       | Prop 3          | Prop 4                |
+|-----+------------------+--------------+-----------------+-----------------------|
+|   1 |                  |              |                 |                       |
+|   2 |                  |              |                 |                       |
+|   3 |                  |              |                 |                       |
+|   4 |                  |              |                 |                       |
+|   5 | Crystal Ball x 3 | Tomahawk x 3 | Loki's Mask x 3 | Barbarian's Sword x 3 |
+
+
+* Props and the Sets that Drop them
+
+|--------------------+---------------------+---------------+---------------+--------+-------------|
+| Prop               | Set 1               | Set 2         | Set 3         | Set 4  | Set 5       |
+|--------------------+---------------------+---------------+---------------+--------+-------------|
+| Bat                |                     | Busted Tank   |               |        |             |
+| Blaster            | Bunker              | Ruins         |               |        |             |
+| Clown's Mask       | Gargoyle's House    |               |               |        |             |
+| Crystal Ball       |                     |               | Duke's Castle |        |             |
+| Jet Skateboard     |                     | Busted Tank   |               |        |             |
+| Perambulator ...   | Count's Pond        |               |               |        |             |
+| Shell              |                     | Secret Bunker | Old Dam       |        |             |
+| Small Spinning Top |                     |               | Old Dam       |        |             |
+| Space Dollars      | Crash of Flight 815 |               |               |        |             |
+| Videotape          | Toy Car             |               |               |        |             |
+| Whip               | Crash of Flight 815 | Busted Tank   | Zeppelin      | Patrol | Pterodactyl |
+| White Gloves       |                     | Fallen Plane  |               |        |             |
