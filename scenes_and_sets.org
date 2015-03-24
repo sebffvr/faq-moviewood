@@ -1,0 +1,46 @@
+
+* Abbreviations
+
+|------+-------------|
+| MC   | Movie Coins |
+| Req. | Required    |
+|------+-------------|
+
+* Scenes
+
+|---------------------+-------+--------+---------+---+---|
+| Scene               | Level | Cost   | Time to |   |   |
+|                     |  Req. |        | Build   |   |   |
+|---------------------+-------+--------+---------+---+---|
+| Broken Flier        |     1 | 10 MC  | 0 sec   |   |   |
+| Children's Room     |     2 | 30 MC  | 5 sec   |   |   |
+| The Grand Staircase |     3 |        |         |   |   |
+| Flyaway House       |     4 | 25 G   |         |   |   |
+| Lost Hut            |     5 | 125 MC | 30 min  |   |   |
+
+* Sets (Movie Coin Drops)
+
+|--------------------+-------+---------+---------+------------+------------|
+| Set                | Level | Cost    | Time to | Drops      | Daily Rate |
+|                    |  Req. | (MC)    | Build   | (MC/time)  |  (MC/24hr) |
+|--------------------+-------+---------+---------+------------+------------|
+| City of the Future |     1 | 40,000  | 5 sec   | 1 / 15 min |         96 |
+| Toy Car            |     2 | 55,000  | 5 sec   | 2 / 30 min |         96 |
+| Titanic Wreckage   |     3 | 75,000  | 2 min   | 3 / 45 min |         96 |
+| Cannibal Village   |     4 | 100,000 | 15 min  | 5 / 90 min |         80 |
+| Secret Bunker      |     5 |         |         |            |            |
+
+* Decorations
+
+|---------------------+-------+--------+---------+-------+------------|
+| Decoration          | Level | Cost   | Time to | Drops | Daily Rate |
+|                     |  Req. |        | Build   |       |            |
+|---------------------+-------+--------+---------+-------+------------|
+| Golden Statue       |     2 | 10,000 | Instant |       |            |
+| Mermaid Fountain    |     2 | 25,000 | Instant |       |            |
+| Mountain Tree       |     3 | 25,000 | Instant |       |            |
+| Minotaur Statue     |     3 | 40,000 | Instant |       |            |
+| Fir Tree            |     4 | 54,000 | Instant |       |            |
+| Fruit Tree          |     4 | 48,000 | Instant |       |            |
+| Pink Jacob's Ladder |     5 |        |         |       |            |
+| Sailboat Status     |       |        |         |       |            |
