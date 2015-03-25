@@ -108,18 +108,43 @@ In addition to the props listed,
 
 * Props and the Sets that Drop them
 
-|--------------------+---------------------+---------------+---------------+--------+-------------|
-| Prop               | Set 1               | Set 2         | Set 3         | Set 4  | Set 5       |
-|--------------------+---------------------+---------------+---------------+--------+-------------|
-| Bat                |                     | Busted Tank   |               |        |             |
-| Blaster            | Bunker              | Ruins         |               |        |             |
-| Clown's Mask       | Gargoyle's House    |               |               |        |             |
-| Crystal Ball       |                     |               | Duke's Castle |        |             |
-| Jet Skateboard     |                     | Busted Tank   |               |        |             |
-| Perambulator ...   | Count's Pond        |               |               |        |             |
-| Shell              |                     | Secret Bunker | Old Dam       |        |             |
-| Small Spinning Top |                     |               | Old Dam       |        |             |
-| Space Dollars      | Crash of Flight 815 |               |               |        |             |
-| Videotape          | Toy Car             |               |               |        |             |
-| Whip               | Crash of Flight 815 | Busted Tank   | Zeppelin      | Patrol | Pterodactyl |
-| White Gloves       |                     | Fallen Plane  |               |        |             |
+|----------------------+---------------------+---------------+---------------------+--------+--------------------|
+| Prop                 | Set 1               | Set 2         | Set 3               | Set 4  | Set 5              |
+|----------------------+---------------------+---------------+---------------------+--------+--------------------|
+| Automatic Weapon     |                     |               | Old Dam             |        |                    |
+| Ballet Shoes         | Versailles          |               |                     |        |                    |
+| Banjo                |                     | Count's Pond  |                     |        |                    |
+| Baseball             | City of the Future  |               |                     |        |                    |
+| Bat                  |                     | Busted Tank   | Zeppelin            | Luxor  |                    |
+| Batteries            |                     | Zombie Well   |                     |        |                    |
+| Black Swan           | Cannibal Village    |               | Anaconda Creek      |        |                    |
+| Blaster              |                     | Secret Bunker | Ruins               |        |                    |
+| Case [Guitar]        |                     |               | Old Dam             |        |                    |
+| Chaplin's Bowler Hat |                     |               |                     |        | Dinosaur Graveyard |
+| Clown's Mask         | Gargoyle's House    |               | Crypt               |        |                    |
+| Compass              |                     |               | Death from Swamps   |        |                    |
+| Crossbow             |                     |               | Old Dam             |        |                    |
+| Crystal Ball         |                     |               | Duke's Castle       |        |                    |
+| Cup                  |                     |               |                     |        | Giant Spider       |
+| Football             | Cannibal Village    |               |                     |        |                    |
+| Grey Mouse           |                     |               |                     |        | Walking Tree       |
+| Jet Skateboard       |                     | Busted Tank   |                     |        |                    |
+| Helm                 |                     | Fallen Plane  |                     |        |                    |
+| Hockey Mask          | City of the Future  |               |                     |        |                    |
+| Horseshoe            |                     |               | Ruins               |        |                    |
+| Lightsaber           | City of the Future  |               |                     |        |                    |
+| Mask                 |                     |               | Island of Skeletons |        |                    |
+| Model Airplane       |                     | Fallen Plane  |                     |        | GHost Patrol       |
+| Mummmy               | City of the Future  |               |                     |        |                    |
+| Perambulator ...     | Crash of Flight 815 | Count's Pond  |                     |        |                    |
+| Radio Set            |                     |               | Island of Skeletons |        |                    |
+| Scorched Banner      |                     | Fallen Plane  |                     |        |                    |
+| Sankara Stone        |                     |               | Duke's Castle       |        |                    |
+| Shell                |                     | Secret Bunker | Old Dam             |        |                    |
+| Small Spinning Top   |                     |               | Old Dam             |        |                    |
+| Space Dollars        | Crash of Flight 815 |               |                     |        |                    |
+| Spiked Mask          |                     |               | Duke's Castle       |        |                    |
+| Treasure Map         |                     |               | Anaconda Creek      |        | Train Robbery      |
+| Videotape            | Toy Car             |               |                     |        |                    |
+| Whip                 | Crash of Flight 815 | Busted Tank   | Zeppelin            | Patrol | Pterodactyl        |
+| White Gloves         |                     | Fallen Plane  |                     |        |                    |

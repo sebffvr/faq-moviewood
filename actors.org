@@ -76,7 +76,7 @@ with the actor's total star Sum at the end.
 |---------------------+--------------------------|
 | Moviewood name      | Ripoff (sorry, "homage") |
 |---------------------+--------------------------|
-| Jade Faster         | Judy Foster              |
+| Jade Faster         | Jodie Foster             |
 | Catie Blondett      | Kate Blanchett           |
 | Annie Jenniston     | Jennifer Anniston        |
 | Ross Crowell        | Russell Crowe            |
@@ -95,3 +95,13 @@ with the actor's total star Sum at the end.
 | Gwen Patrol         | Gwyneth Paltrow          |
 | John Dippo          | Johnny Depp              |
 |                     |                          |
+
+* Favors
+
+Actors will join your studio if you make do on what favour they ask. I
+actually don't know if these are fixed or random, and I don't know
+what triggers the tasks that has the actor as a reward.
+
+| Barbie Dromor | 4 | Build the Secret Bunker set |
+| Bill Smith    | 4 | Shoot 3 movies              |
+|               |   |                             |
