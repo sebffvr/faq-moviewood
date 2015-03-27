@@ -28,7 +28,7 @@
 | Toy Car            |     2 | 55,000  | 5 sec   | 2 / 30 min |         96 |
 | Titanic Wreckage   |     3 | 75,000  | 2 min   | 3 / 45 min |         96 |
 | Cannibal Village   |     4 | 100,000 | 15 min  | 5 / 90 min |         80 |
-| Secret Bunker      |     5 |         |         |            |            |
+| Secret Bunker      |     5 | 130,000 | 45 min  |            |            |
 
 * Decorations
 
