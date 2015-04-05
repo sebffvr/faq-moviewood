@@ -1,4 +1,30 @@
 
+
+* About this FAQ
+
+Uploaded to GameFaqs 2015-04-05 by sebffvr
+
+You can send patches for this guide on Github:
+https://github.com/sebffvr/faq-moviewood
+
+This FAQ is largely complete though I am still adding some hints. It
+is based on the iOS/iPad version of this game.
+
+* About Moviewood
+
+Moviewood is a hidden object / social game that is not particularly
+brilliant or complicated, but which I have found annoyingly
+compulsive. It has an online/social component and I have noticed
+players miss some fundamental aspects of that interaction, hence this
+FAQ.
+
+Gameplay: By doing hidden object scenes you get XP and money that
+allow you to build up your movie lot and acquire and upgrade more
+scenes.
+
+Although you can buy in-game gold and cash with real money, it is
+possible to play the game without spending real money. 
+
 * Important Tips:
 
 tl;dr: 
@@ -27,23 +53,6 @@ tl;dr:
 
 - If you read one section in this FAQ, read the 'Friends' section. 
 
-* About this FAQ
-
-Fork me on Github: https://github.com/sebffvr/faq-moviewood
-
-Uploaded to GameFaqs 2015-04-05 by sebffvr
-
-* About Moviewood
-
-Moviewood is a hidden object / social game that is not particularly
-brilliant, but which I have found annoyingly compulsive, hence this
-FAQ.
-
-By doing hidden object scenes you get XP and money that allow you to
-build and upgrade more scenes. 
-
-Although you can buy in-game gold and cash with real money, it is
-possible to play the game without spending real money. 
 
 * Game Mechanics
 
