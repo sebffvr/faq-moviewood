@@ -19,11 +19,11 @@ tl;dr:
 
 - It is entirely possible to play the game without spending real
   money. If you want to spend real money, do it on the Lottery
-  occasionally ($1 per play). The "buy gold" and "buy money" options
-  are NOT a good deal.
+  occasionally ($1 per play) - sometimes (1 in 5 times I'd say). The
+  "buy gold" and "buy money" options are NOT a good deal.
 
 - Keep only three scenes you like on the lot so you can film scenes
-  with them over and over.
+  with them over and over racking full-chain bonuses.
 
 - If you read one section in this FAQ, read the 'Friends' section. 
 
@@ -31,12 +31,13 @@ tl;dr:
 
 Fork me on Github: https://github.com/sebffvr/faq-moviewood
 
-Uploaded to GameFaqs 2015-03-22 by sebffvr
+Uploaded to GameFaqs 2015-04-05 by sebffvr
 
 * About Moviewood
 
-Moviewood is a hidden object / social game that is not brilliant, but
-which I have found annoyingly compulsive, hence this FAQ.
+Moviewood is a hidden object / social game that is not particularly
+brilliant, but which I have found annoyingly compulsive, hence this
+FAQ.
 
 By doing hidden object scenes you get XP and money that allow you to
 build and upgrade more scenes. 
@@ -52,12 +53,12 @@ To gain XP and cash, you have to "shoot movies". Each movie consists
 of three hidden object tableaux. Up to 13 hidden objects are in each
 scene. Getting all 13 rapidly gives you extra points. 
 
-Scenes are built using Movie Coins - a new Scene opens every other
-(odd) level.
+Scenes are built using Movie Coins - a new Scene opens roughly every
+other level.
 
 There are a fixed number of objects to be found in each scene at fixed
 locations; however some of them can be in one of two
-locations.
+locations in any particular scene.
 
 Additional points can be earned when there is a handicap in the
 scene. These include
@@ -67,11 +68,11 @@ scene. These include
 - Water
 - Bubbles
 
-Also, sometimes scenes appear in their mirror image (no extra
-points). Scenes can be updated with Props (see my Props FAQ) after
-level 4. 
+Also, sometimes scenes appear in their mirror image (no extra points
+are awarded for that). Scenes can be updated with Props (see the Props
+FAQ) after level 4.
 
-See my Scenes and Sets FAQ for a list of Scenes.
+See the Scenes and Sets FAQ for a list of Scenes.
 
 ** Sets
 
@@ -79,18 +80,19 @@ Sets drop Movie Coins in fixed time intervals and Props (seemingly
 randomly but a given set can only drop certain props - see the Props
 section).
 
-Sets are built using game cash. A new set opens every other (even)
-level. You can sell Sets but you shouldn't - you only recoup a tiny
-fraction of their cost, and they come in useful when you need
-multiples of a specific set for a task or for a prop drop. 
+Sets are built using game cash. A new set opens every other level or
+so, usually alternating with scene. You can sell Sets but you
+shouldn't - you only recoup a tiny fraction of their cost, and they
+come in useful when you need multiples of a specific set for a task or
+for a prop drop.
 
-See my Scenes and Sets FAQ for a list of Sets.
+See the Scenes and Sets FAQ for a list of Sets.
 
 ** Tasks
 
 Tasks are missions assigned to you by the game. Completing tasks earns
 XP and Cash and occasionally other rewards such as scripts, actors or
-props. 
+rare props. 
 
 Once a day, two time-critical tasks are given - a short one (4 hours)
 and a long one (8 hours). These are the game's main source of XP
@@ -103,6 +105,9 @@ before you collect movie coins, as the task may involve collecting a
 certain amount of movie coins from a particular set, and that only
 counts after you have opened the task. 
 
+You do not have to accept the task. Closing the window is the same as
+playing the "Let's begin" or whatever acknowledgement button.
+
 ** Props
 
 Props are used to upgrade scenes to their maximum star value. Props
@@ -112,11 +117,11 @@ have "friended" provided you have requested them - see 'Giving and
 Receiving Props'. 
 
 For a list of available Props, the scenes they upgrade and the sets
-they drop of, see my Props FAQ
+they drop of, see the Props FAQ
 
 ** Actors
 
-For a list of available actors see my Actors FAQ
+For a list of available actors see the Actors FAQ
 
 ** Hints
 
@@ -130,7 +135,7 @@ Flash and Chain hints can be obtained for friends (see Giving and
 Receiving Hints). You start off the game with 10 Bomb Hints and that's
 pretty much it.
 
-Flash hints are best for the regular leves; occasionally there are
+Flash hints are best for the regular levels; occasionally there are
 levels that are either in the dark or that ask you to find one of
 three images rather than one of six words - chain hints work better
 for those. 
@@ -147,14 +152,15 @@ bored/frustrated. If you can't find an item, just use a Camera hint.
 Don't use gold to expand your lot. As the game progresses you can earn
 enough money to buy expansions in game cash.
 
-You can put a smaller (eg 2x2) set in one of the 3x3 blocks for
+You can put a smaller (eg 2x2) set in a 3x3 block sized for
 scenes. It's best to keep a small number of scenes (see Strategy) and
 use as much of your lot of sets that drop props and movie coins.
 
 ** Decorations
 
 Decorations seem to have no particular purpose, though some will drop
-movie coins later in the game. 
+movie coins later in the game. See the Scenes and Sets FAQ for a list
+of those.
 
 ** Lottery
 
@@ -191,7 +197,7 @@ combinations that maximise your actor star power. For example using
 Jack Chine (3 stars Action, 3 stars Comedy) on a Comedy-Thriller will
 only give you 3 stars from him; using him in an Action-Comedy will
 result in all 6 of his stars being contributed to the movie (hence, a
-higher profit). 
+much higher profit). 
 
 Some scripts are "Premium". That means that actors are available even
 if they are recharging (ie even if they are "resting" for normal
@@ -201,7 +207,14 @@ genre, shoot a regular script in the Drama genre (if you have one) and
 then shoot a premium one straight way (if you have one). 
 
 Another way to progress quickly is to make ample use of the Friend
-features. 
+features. See Friends section. Build your scenes that you are
+requesting props for near the middle of your game lot - then they will
+be more visible to Friends who visit you.
+
+I find the Scenes pretty much unplayable on an iphone screen, but if
+you log onto gamecenter you can play your current game on your iPhone
+which will allow you to collect coins and visit friends in that boring
+class/meeting you're sitting in.
 
 * Friends
 
@@ -215,12 +228,19 @@ players by inviting them (though it costs you 5 gold for 5 invites -
 use judiciously).
 
 You can also add friends by their in-game ID. For example, my in-game
-ID is 94a0d4ebb061 (feel free to try it). If you play the game on
-multiple devices (eg. iPhone and iPad) you will have different IDs and
-can friend your other self. 
+ID is e3d7a1b33639 (feel free to try it - I'm trying to figure out if
+there is a friend limit). If you play the game on multiple devices
+(eg. iPhone and iPad) you will have different IDs and can friend your
+other self.
 
 You cannot delete a friend once added. If there is a limit in how many
-you can have, I have not yet hit it (currently at ~ 45).
+you can have, I have not yet hit it (currently at ~ 50). If you pay
+gold for friend invites, you can't reject any of the offered choices
+and get different ones. You don't have to accept them, but not
+accepting them doesn't give you that slot back. 
+
+Aside from building rare Sets, trading gold for friend invites (if you
+can't get your own) is the only other good use of gold in the game. 
 
 ** Friending & Privacy
 
@@ -235,6 +255,9 @@ You cannot exhcnage messages or other content with friends. You can
 only collect gift them props (from your inventory) or hints (free to
 you). Hence it is a safe friending scheme for minors. 
 
+Obviously if you are logged onto gamecenter your gamecenter ID is
+visible in rankings boards etc.
+
 ** Changing your Moviewood alias. 
 
 If you do not change your Moviewood alias from the game default of
@@ -245,9 +268,9 @@ you give them something.
 You can change your in-game name by clicking on the pencil icon on the
 top right of the "Friends" screens. Again, you really want to do this
 in order to make yourself stand out. If I get a rare prop from
-'Joe123' I am going to try and give them something back later; if I
-get one from 'Player' I have no idea which of the several 'Player's in
-my friends list it came from.
+'Joe123' I am going to try and give them something they need if I have
+itlater; if I get one from 'Player' I have no idea which of the
+several 'Player's in my friends list it came from.
 
 You can delete the default 'Player' completely and replace it with
 your own name (some people seem to append, again, this does not help
@@ -306,7 +329,14 @@ prop.
 
 ASK FOR PROPS ESPECIALLY EARLY IN THE GAME. The game rewards players
 for giving you propos with money and XP (depending on the rarity of
-the item) and 
+the item) and it costs you nothing. Asking for reasonably common
+propos will be more effective than the very rate props (everyone wants
+a balloon...). 
+
+NOTE: The game cash reward you get for GIVING a prop seems to depend
+on your game level. Giving a prop with a 300 XP / 10,000 reward seems
+to give you approximately 10,000*0.5*(your game level). But it will
+only give you the XP listed (300) regardless. 
 
 ** Giving and Receiving Hints
 
@@ -336,8 +366,9 @@ sequence:
 The Random Gift "roulette" is by far the most valuable, as it drops
 items that are rare / hard to get otherwise. 
 
-Random Gift seems to go away after ~ Level 30 so make use of it while
-you can. 
+Random Gift seemed to go away after ~ Level 30 but then it came back
+so maybe it was a glitch. You need to be connected to the network to
+get the daily gift. 
 
 * Lot helpers
 
