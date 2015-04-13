@@ -6,41 +6,309 @@
 | Req. | Required    |
 |------+-------------|
 
-* Scenes
 
-|---------------------+-------+--------+---------+---+---|
-| Scene               | Level | Cost   | Time to |   |   |
-|                     |  Req. |        | Build   |   |   |
-|---------------------+-------+--------+---------+---+---|
-| Broken Flier        |     1 | 10 MC  | 0 sec   |   |   |
-| Children's Room     |     2 | 30 MC  | 5 sec   |   |   |
-| The Grand Staircase |     3 |        |         |   |   |
-| Flyaway House       |     4 | 25 G   |         |   |   |
-| Lost Hut            |     5 | 125 MC | 30 min  |   |   |
+* Scenes (Hidden Object Scenes)
+
+|----------------------+-------+----------+---------|
+| Scene                | Level | Cost     | Time to |
+|                      |  Req. |          | Build   |
+|----------------------+-------+----------+---------|
+| Broken Flier         |     1 | 10 MC    | 0 sec   |
+| Children's Room      |     2 | 30 MC    | 5 sec   |
+| The Grand Staircase  |     3 |          |         |
+| Flyaway House        |     4 | 25 G     |         |
+| Lost Hut             |     5 | 125 MC   | 30 min  |
+| Cemetery             |    13 | 2,600 MC | 9 h     |
+|                      |       |          |         |
+| Coral Reef           |    39 | 42,000   | 1d 12h  |
+| School of Magic      |    41 | 43,000   | 1d 12h  |
+| Dinopark             |    43 | 44,000   | 1d 12h  |
+| Town Hall with Clock |    45 | 41,000   | 1d 12h  |
+|                      |       |          |         |
+
+  
+* Props required to upgrade Scenes
+
+In addition to the props listed:
+
+- 1 blueprint is needed to upgrade from level 2 to level 3
+- 2 blueprints are needed to upgrade from level 3 to level 4
+- 3 blueprints are needed to upgrade from level 4 to level 5
+
+To find which sets drop these props, consult the Props FAQ.
+
+** Template
+
+|-----+--------+--------+--------+--------|
+| Lv. | Prop 1 | Prop 2 | Prop 3 | Prop 4 |
+|-----+--------+--------+--------+--------|
+|   1 |        |        |        |        |
+|   2 |        |        |        |        |
+|   3 |        |        |        |        |
+|   4 |        |        |        |        |
+|   5 |        |        |        |        |
+
+
+** Abandoned Ship
+
+|------+--------------------+---------------+----------------+--------|
+|  Lv. | Prop 1             | Prop 2        | Prop 3         | Prop 4 |
+|------+--------------------+---------------+----------------+--------|
+|    1 |                    |               |                |        |
+|    2 |                    |               |                |        |
+|    3 |                    |               |                |        |
+| 3->4 | Grey Mouse x 25    | Face Mask x 7 | Helm [Moto]x 3 |        |
+| 4->5 | Jet Skateboard x ? | Key x ?       |                |        |
+
+** Bathyscaph
+
+|------+----------------+---------------+-----------------+--------|
+|  Lv. | Prop 1         | Prop 2        | Prop 3          | Prop 4 |
+|------+----------------+---------------+-----------------+--------|
+|    1 |                |               |                 |        |
+| 2->3 | Baseball x 12  | The Hat x 3   |                 |        |
+| 3->4 | Foot Irons x 3 | Iron Mask x 3 | Loki's Mask x 3 |        |
+|    4 |                |               |                 |        |
+|    5 |                |               |                 |        |
+
+** Boudoir
+
+|-----+--------------------------+---------------------------+---------------+-----------|
+| Lv. | Prop 1                   | Prop 2                    | Prop 3        | Prop 4    |
+|-----+--------------------------+---------------------------+---------------+-----------|
+|   1 |                          |                           |               |           |
+|   2 |                          |                           |               |           |
+|   3 |                          |                           |               |           |
+|   4 | Chaplin's Bolwer Hat x 3 | Rolepaying Mask x 3       | Violin x 3    |           |
+|   5 | Helm x 3                 | Compressed Air Bottle x 3 | Pink Soap x 3 | Banjo x 3 |
+
+** Broken Flier
+
+|------+---------------+---------------------+----------------------|
+|  Lv. | Prop 1        | Prop 2              | Prop 3               |
+|------+---------------+---------------------+----------------------|
+|    1 | Blaster x 1   |                     |                      |
+|    2 | Mummy x 2     | Lightsaber x 2      |                      |
+| 3->4 | Baseball x 12 | Jet Skateboard x 12 | Automatic Weapon x 3 |
+|      |               |                     |                      |
+
+** Cemetery
+
+|------+---------+--------+--------+--------|
+|  Lv. | Prop 1  | Prop 2 | Prop 3 | Prop 4 |
+|------+---------+--------+--------+--------|
+| 0->1 | Bat x 2 |        |        |        |
+|    2 |         |        |        |        |
+|    3 |         |        |        |        |
+|    4 |         |        |        |        |
+|    5 |         |        |        |        |
+
+** Children's Room 
+
+|------+-------------------+-----------------+------------------------+------------------|
+|  Lv. | Prop 1            | Prop 2          | Prop 3                 | Prop 4           |
+|------+-------------------+-----------------+------------------------+------------------|
+|    1 | Videotape x 1     |                 |                        |                  |
+|    2 | Perambulator x 2  | Chocolate x 2   |                        |                  |
+|    3 | Football x 11     | Fake Gun x 7    | Small Spinning Top x 3 |                  |
+| 4->5 | Dalmatian Pup x 3 | Hockey Mask x 3 | Ballet Shoes x 3       | Boxer Gloves x 3 |
+
+** Dwarven Throne
+
+|------+----------------+--------------------+-----------+--------|
+| Lv.  | Prop 1         | Prop 2             | Prop 3    | Prop 4 |
+|------+----------------+--------------------+-----------+--------|
+| 1    |                |                    |           |        |
+| 2    |                |                    |           |        |
+| 2->3 | Magic Wand x 3 | Tomahawk x 18      |           |        |
+| 3->4 | Scepter x 5    | Maltese Knife x 25 | Queen x 5 |        |
+| 4->5 | Crossbow x ?   |                    |           |        |
+
+** Fedville
+
+|------+------------------------+-----------------+--------+--------|
+| Lv.  | Prop 1                 | Prop 2          | Prop 3 | Prop 4 |
+|------+------------------------+-----------------+--------+--------|
+| 0->1 | Badge x 15             |                 |        |        |
+| 1->2 | Horseshoe x 5          | Football x 3    |        |        |
+| 2->3 | Motorcycle Sticker x 2 | Ice pick x 3    |        |        |
+| 3->4 |                        |                 |        |        |
+| 4->5 | Key x 5                | Smiling cat x ? |        |        |
+
+** Flyaway House
+
+|------+---------------+---------------------------+-------------+--------|
+|  Lv. | Prop 1        | Prop 2                    | Prop 3      | Prop 4 |
+|------+---------------+---------------------------+-------------+--------|
+|    1 | Badge x 1     |                           |             |        |
+|    2 | Baseball x 3  | Shell x 3                 |             |        |
+| 2->3 | Videotape x 7 | Jet Skateboard x 11       |             |        |
+| 3->4 | Batteries x 5 | Compressed Air Bottle x 5 | Balloon x 5 |        |
+|    5 |               |                           |             |        |
+
+** The Grand Staircase
+
+|------+--------------+--------------------+----------------+--------|
+|  Lv. | Prop 1       | Prop 2             | Prop 3         | Prop 4 |
+|------+--------------+--------------------+----------------+--------|
+|    1 | Pendant x 1  |                    |                |        |
+|    2 | Ice pick x 3 | Bat x 1            |                |        |
+| 3->4 | Amphora x 5  | Ancient Watch x 12 | Opera Mask x 5 |        |
+|    4 |              |                    |                |        |
+|    5 |              |                    |                |        |
+
+** Graveyard of the Sea
+
+|------+---------------------+-----------+--------+--------|
+| Lv.  | Prop 1              | Prop 2    | Prop 3 | Prop 4 |
+|------+---------------------+-----------+--------+--------|
+| 1    |                     |           |        |        |
+|      |                     |           |        |        |
+| 2->3 | Predator's Mask x 2 | Ficus x 4 |        |        |
+| 4    |                     |           |        |        |
+| 4->5 | Amphora x ?         |           |        |        |
+
+** K-19
+
+|------+------------------------+----------------+--------+--------|
+|  Lv. | Prop 1                 | Prop 2         | Prop 3 | Prop 4 |
+|------+------------------------+----------------+--------+--------|
+|    1 |                        |                |        |        |
+|    2 |                        |                |        |        |
+| 2->3 | Adrenaline Syringe x 3 | Flashlight x 3 |        |        |
+|    4 |                        |                |        |        |
+|    5 |                        |                |        |        |
+
+** Lost Hut
+
+|------+----------------------+----------------+------------------+----------|
+|  Lv. | Prop 1               | Prop 2         | Prop 3           | Prop 4   |
+|------+----------------------+----------------+------------------+----------|
+|    1 |                      |                |                  |          |
+|    2 |                      |                |                  |          |
+|    3 |                      |                |                  |          |
+| 3->4 | Robin Hood's Bow x 7 | Golden Gun x 3 | The Tomahawk x 3 |          |
+| 4->5 | Badge x 3            | Mask x 3       | Pipe x 3         | Whip x 3 |
+|      |                      |                |                  |          |
+
+** Pandora
+
+|------+-------------------+------------+--------+--------|
+| Lv.  | Prop 1            | Prop 2     | Prop 3 | Prop 4 |
+|------+-------------------+------------+--------+--------|
+| 0->1 | Treasure map x 17 |            |        |        |
+| 1->2 | Rope x 12         | Helm x 9   |        |        |
+| 2->3 | Chainsaw x 3      | Ficus x 11 |        |        |
+| 3->4 |                   |            |        |        |
+| 4->5 | Amphora x ?       |            |        |        |
+
+** Shrine
+
+|-----+----------------------+------------------------+----------------+--------------|
+| Lv. | Prop 1               | Prop 2                 | Prop 3         | Prop 4       |
+|-----+----------------------+------------------------+----------------+--------------|
+|   1 |                      |                        |                |              |
+|   2 |                      |                        |                |              |
+|   3 |                      |                        |                |              |
+|   4 |                      |                        |                |              |
+|   5 | Crystal Slippers x 5 | Small Spinning Top x 5 | Black Swan x 5 | Red Cape x 5 |
+
+** Stone Gate
+
+|-----+------------------+--------------+-----------------+-----------------------|
+| Lv. | Prop 1           | Prop 2       | Prop 3          | Prop 4                |
+|-----+------------------+--------------+-----------------+-----------------------|
+|   1 |                  |              |                 |                       |
+|   2 |                  |              |                 |                       |
+|   3 |                  |              |                 |                       |
+|   4 |                  |              |                 |                       |
+|   5 | Crystal Ball x 3 | Tomahawk x 3 | Loki's Mask x 3 | Barbarian's Sword x 3 |
+
+** Vampire Castle
+
+|-----+----------------+-----------+---------------+------------------|
+| Lv. | Prop 1         | Prop 2    | Prop 3        | Prop 4           |
+|-----+----------------+-----------+---------------+------------------|
+|   1 |                |           |               |                  |
+|   2 |                |           |               |                  |
+|   3 |                |           |               |                  |
+|   4 |                |           |               |                  |
+|   5 | Foot Irons x 3 | Rifle x 3 | Face Mask x 3 | Bladed Glove x 3 |
+** Wedding Arbor
+
+|------+---------------+-----------------+---------------+------------------|
+| Lv.  | Prop 1        | Prop 2          | Prop 3        | Prop 4           |
+|------+---------------+-----------------+---------------+------------------|
+|      |               |                 |               |                  |
+| 1    |               |                 |               |                  |
+| 2    | Batteries x 3 | Plush Heart x 5 |               |                  |
+| 3->4 | Ficus x 3     | Rose Petals x 3 | Pink Soap x 3 |                  |
+| 4->5 | Cup x 3       | Balloon x 3     | Candle x 3    | Wedding Ring x 3 |
+
+
+** Wreckage
+
+|------+---------------------+-----------------+-------------------+---------------|
+|  Lv. | Prop 1              | Prop 2          | Prop 3            | Prop 4        |
+|------+---------------------+-----------------+-------------------+---------------|
+|    1 |                     |                 |                   |               |
+|    2 |                     |                 |                   |               |
+|    3 |                     |                 |                   |               |
+| 3->4 | Fogged-up Glass x 7 | Plush Heart x 9 | Chocolate Bar x 9 |               |
+| 4->5 | Pendant x 20        | Rose Petals x 8 | Joker Card x 5    | Lifesaver x 5 |
+|------+---------------------+-----------------+-------------------+---------------|
+
 
 * Sets (Movie Coin Drops)
 
-|--------------------+-------+---------+---------+------------+------------|
-| Set                | Level | Cost    | Time to | Drops      | Daily Rate |
-|                    |  Req. | (MC)    | Build   | (MC/time)  |  (MC/24hr) |
-|--------------------+-------+---------+---------+------------+------------|
-| City of the Future |     1 | 40,000  | 5 sec   | 1 / 15 min |         96 |
-| Toy Car            |     2 | 55,000  | 5 sec   | 2 / 30 min |         96 |
-| Titanic Wreckage   |     3 | 75,000  | 2 min   | 3 / 45 min |         96 |
-| Cannibal Village   |     4 | 100,000 | 15 min  | 5 / 90 min |         80 |
-| Secret Bunker      |     5 | 130,000 | 45 min  |            |            |
+To see what props are dropped by these sets, visit the props FAQ.
+
+|-----------------------+-------+-----------+---------+------------+------------|
+| Set                   | Level | Cost      | Time to | Drops      | Daily Rate |
+|                       |  Req. | (MC)      | Build   | (MC/time)  |  (MC/24hr) |
+|-----------------------+-------+-----------+---------+------------+------------|
+| City of the Future    |     1 | 40,000    | 5 sec   | 1 / 15 min |         96 |
+| Toy Car               |     2 | 55,000    | 5 sec   | 2 / 30 min |         96 |
+| Titanic Wreckage      |     3 | 75,000    | 2 min   | 3 / 45 min |         96 |
+| Cannibal Village      |     4 | 100,000   | 15 min  | 5 / 90 min |         80 |
+| Secret Bunker         |     5 | 130,000   | 45 min  |            |            |
+| Ruins                 |    12 | 1,000,000 | 8h      | 22 / 8h    |         66 |
+| Minotaur's Labyrinth  |       | 640,000   | 4h      | 14 / 2h    |        168 |
+| Death from the Swamps |    13 |           |         |            |            |
+| Zombie Well           |    14 |           |         |            |            |
+| Crypt                 |    18 |           |         |            |            |
+| Busted Tank           |    19 |           |         |            |            |
+| Fallen Plane          |    20 |           |         |            |            |
+| Island of Skeletons   |    21 |           |         |            |            |
+| Secret Cave           |    22 |           |         |            |            |
+| Gargoyle's House      |    25 |           |         |            |            |
+| Venice Bridge         |    26 |           |         |            |            |
+| Old Dam               |    28 |           |         |            |            |
+| Ghost Patrol          |    30 |           |         |            |            |
+| Gunship               |    35 |           |         |            |            |
+| Seagulls              |    38 |           |         |            |            |
+| British House         |    40 |           |         |            |            |
+| Suburb                |    41 |           |         |            |            |
+| Kings Cross           |    42 |           |         |            |            |
+| Patrol                |    44 |           |         |            |            |
+| Ranger's House        |    45 |           |         |            |            |
 
 * Decorations
 
-|---------------------+-------+--------+---------+-------+------------|
-| Decoration          | Level | Cost   | Time to | Drops | Daily Rate |
-|                     |  Req. |        | Build   |       |            |
-|---------------------+-------+--------+---------+-------+------------|
-| Golden Statue       |     2 | 10,000 | Instant |       |            |
-| Mermaid Fountain    |     2 | 25,000 | Instant |       |            |
-| Mountain Tree       |     3 | 25,000 | Instant |       |            |
-| Minotaur Statue     |     3 | 40,000 | Instant |       |            |
-| Fir Tree            |     4 | 54,000 | Instant |       |            |
-| Fruit Tree          |     4 | 48,000 | Instant |       |            |
-| Pink Jacob's Ladder |     5 |        |         |       |            |
-| Sailboat Status     |       |        |         |       |            |
+|----------------------+-------+---------+---------+-------+------------|
+| Decoration           | Level | Cost    | Time to | Drops | Daily Rate |
+|                      |  Req. |         | Build   |       |            |
+|----------------------+-------+---------+---------+-------+------------|
+| Golden Statue        |     2 | 10,000  | Instant |       |            |
+| Mermaid Fountain     |     2 | 25,000  | Instant |       |            |
+| Mountain Tree        |     3 | 25,000  | Instant |       |            |
+| Minotaur Statue      |     3 | 40,000  | Instant |       |            |
+| Fir Tree             |     4 | 54,000  | Instant |       |            |
+| Fruit Tree           |     4 | 48,000  | Instant |       |            |
+| Pink Jacob's Ladder  |     5 |         |         |       |            |
+| Sailboat Statue      |       | 85,000  |         |       |            |
+| Wave Statue          |       | 930,000 | Instant |       |            |
+| Pond                 |       |         |         |       |            |
+| Japanese Cherry Tree |       | 116,000 | 15m     |       |            |
+| Blue Flowers         |    12 |         |         |       |            |
+| Sun Dial             |    13 |         |         |       |            |
