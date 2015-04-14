@@ -1,4 +1,6 @@
 
+
+
 * Genre rewards
 
 Unless otherwise noted, Genre upgrade rewards are:
@@ -30,121 +32,121 @@ I have not been able to figure out if the genre level affects scoring.
 
 * Props and the Sets that Drop them
 
-! = believed complete
+# = probably incomplete
 
 |----------------------------+----------------------+----------------------+-------------------------+----------------+--------------------|
 | Prop                       | Set 1                | Set 2                | Set 3                   | Set 4          | Set 5              |
 |----------------------------+----------------------+----------------------+-------------------------+----------------+--------------------|
-| ! Adrenalin Syringe        | Ghost Patrol         |                      |                         |                |                    |
-| ! Amphora                  | Titanic Wreckage     | Zombie Well          | Secret Cave             | Ranger's House |                    |
-| ! Ancient Watch            | Titanic Wreckage     | Secret Bunker        | Count's Pond            | Police         |                    |
-| Army Knife                 |                      |                      | Zeppelin                |                |                    |
-| ! Automatic Weapon         | Ruins                | Busted Tank          | Old Dam                 | Ghost Patrol   |                    |
-| Backpack                   |                      |                      |                         |                |                    |
-| Badge                      |                      |                      | Anaconda Creek          |                |                    |
-| ! Ballet Shoes             | Versailles           | Fallen Plane         | Venice Bridge           | Suburb         |                    |
-| ! Balloon                  | Missing Sailboat     | Fallen Plane         | Venice Bridge           | Gunship        |                    |
-| Banjo                      |                      | Count's Pond         | Anaconda Creek          | Old Dam        | Glowing Forest     |
-| ! Baseball                 | City of the Future   | Titanic Wreckage     | Luxor                   | Police         | Lumber Mill        |
-| ! Bat                      |                      | Busted Tank          | Zeppelin                | Luxor          | Glowing Forest     |
-| ! Batteries                | Versailles           | Zombie Well          | Ruins                   |                |                    |
-| Black Obelisk              |                      | Crypt                |                         |                |                    |
-| ! Black Swan               | Cannibal Village     | Lifeboat             | Anaconda Creek          | Glowing Forest |                    |
-| Bladed Glove               |                      |                      |                         |                |                    |
-| Blaster                    |                      | Secret Bunker        | Ruins                   | Ghost Patrol   |                    |
-| Bloody Diamond             |                      |                      |                         |                |                    |
-| ! Boxer Gloves             | Crash of Flight 815  | Toy Car              | Secret Cave             | Ghost Patrol   | British House      |
-| Camera                     | City of the Future   |                      |                         |                |                    |
-| ! Candle                   | Versailles           | Missing Sailboat     | Crypt                   |                | Walking Tree       |
-| Case [Guitar]              |                      |                      | Old Dam                 |                |                    |
-| ! Chainsaw                 | Battle Mech          |                      |                         |                |                    |
-| Chaplin's Bowler Hat       |                      |                      |                         |                | Dinosaur Graveyard |
-| ! Chocolate Bar            | City of the Future   | Titanic Wreckage     | Versailles              |                |                    |
-| Clown's Mask               |                      | Crypt                | Gargoyle's House        | Luxor          |                    |
-| Compass                    |                      |                      | Death from Swamps       | Battle Mech    |                    |
-| ! Compressed Air Bottle    | Crash of Flight 815  | Zeppelin             | Ghost Patrol            | Train Robbery  | Patrol             |
-| Crossbow                   |                      |                      | Old Dam                 |                |                    |
-| Crow                       |                      |                      |                         |                |                    |
-| Crystal Ball               |                      |                      | Duke's Castle           |                |                    |
-| ! Crystal Slippers         | Count's Pond         | Missing Sailboat     | Secret Cave             | Walking Tree   |                    |
-| ! Cup                      | Cannibal Village     | Versailles           | Ruins                   |                | Giant Spider       |
-| Cupid's Bow                |                      |                      | Death from Swamps       |                |                    |
-| ! Dalmatian Pup            | Toy Car              | Cannibal Village     | Lifeboat                | Patrol         |                    |
-| Death Mask                 |                      |                      |                         |                |                    |
-| ! Face Mask                | Missing Sailboat     | Busted Tank          | Zeppelin                | Patrol         |                    |
-| Facepiece Respirator       |                      |                      | Island of Skeletons     |                |                    |
-| Fake Gun                   | Titanic Wreckage     | Minotaur's Labyrinth | Duke's Castle           | Diplodocus     |                    |
-| ! Ficus                    | Lifeboat             | Secret Cave          | Anaconda Creek          |                | Giant Spider       |
-| ! Flashlight               | Gargoyle's House     | Venice Bridge        | Old Dam                 | Battle Mech    |                    |
-| Flippers                   |                      |                      |                         |                | Train Robbery      |
-| ! Fogged-Up Glass          | Cannibal Village     | Count's Pond         | Duke's Castle           | Police         |                    |
-| ! Football                 | Titanic Wreckage     | Cannibal Village     | The Crash of Flight 815 | Orc            | Seagulls           |
-| ! Foot Irons               | Missing Sailboat     | Zombie Well          | Island of Skeletons     | Glowing Forest | British House      |
-| Ghost                      |                      |                      |                         |                |                    |
-| Gladiator Helmet           |                      |                      |                         |                |                    |
-| Gold Ring                  |                      |                      |                         |                |                    |
-| ! Golden Gun               | Crash of Flight 815  | Busted Tank          | Train Robbery           | Gunship        |                    |
-| Green Jelly/Slime          |                      |                      |                         | Ghost Patrol   |                    |
-| ! Grey Mouse               | Cannibal Village     | Titanic Wreckage     | Death from Swamps       | Walking Tree   |                    |
-| ! Helm [moto]              | Fallen Plane         | Venice Bridge        | Train Robbery           | Gunship        |                    |
-| Helm [soldier]             |                      |                      |                         |                |                    |
-| ! Hockey Mask              | City of the Future   | Death from Swamps    | Venice Bridge           | Kings Cross    |                    |
-| ! Horseshoe                | Missing Sailboat     | Anaconda Creek       | Ruins                   | Orc            | Seagulls           |
-| ! Ice Pick                 | Crash of Flight 815  | Toy Car              | Death from Swamps       | Giant Spider   |                    |
-| ! Iron Mask                | Lifeboat             | Versailles           | Death from Swamps       | British House  |                    |
-| ! Jet Skateboard           | Toy Car              | Versailles           | Busted Tank             |                |                    |
-| ! Joker Card               | Crash of Flight 815  | Zombie Well          | Island of Skeletons     | Walking Tree   | Lumber Mill        |
-| Key                        |                      | Busted Tank          |                         |                |                    |
-| ! Lifesaver                | Titanic Wreckage     | Lifeboat             | Island of Skeletons     | Police         | Fishes             |
-| Lightsaber                 | City of the Future   |                      |                         |                |                    |
-| Lime and Tequila           |                      |                      |                         |                |                    |
-| Lockpick                   |                      |                      |                         |                |                    |
-| ! Loki's Mask              | Ruins                | Crypt                | Gargoyle's House        | Ranger's House |                    |
-| Magnifier                  |                      |                      |                         |                |                    |
-| ! Maltese Knife            | Minotaur's Labyrinth | Zombie Well          | Duke's Castle           | Diplodocus     |                    |
-| Mask                       |                      |                      | Island of Skeletons     |                | Gargoyle's House   |
-| Model Airplane             |                      | (Fallen Plane)       |                         | GHost Patrol   |                    |
-| ! Motorcycle Sticker       | Lumber Mill          |                      |                         |                |                    |
-| Mummmy                     | City of the Future   |                      | Minotoaur's Labyrinth   | Ghost Patrol + |                    |
-| ! Opera Mask               | City of the Future   | Crypt                | Secret Cave             | Seagulls       |                    |
+| Adrenalin Syringe          | Ghost Patrol         |                      |                         |                |                    |
+| Amphora                    | Titanic Wreckage     | Zombie Well          | Secret Cave             | Ranger's House |                    |
+| Ancient Watch              | Titanic Wreckage     | Secret Bunker        | Count's Pond            | Police         |                    |
+| Army Knife                 | Duke's Castle        | Gargoyle's House     | Zeppelin                | Patrol         |                    |
+| Automatic Weapon           | Ruins                | Busted Tank          | Old Dam                 | Ghost Patrol   |                    |
+| Backpack #                 |                      |                      |                         |                |                    |
+| Badge #                    |                      |                      | Anaconda Creek          |                |                    |
+| Ballet Shoes               | Versailles           | Fallen Plane         | Venice Bridge           | Suburb         |                    |
+| Balloon                    | Missing Sailboat     | Fallen Plane         | Venice Bridge           | Gunship        |                    |
+| Banjo #                    |                      | Count's Pond         | Anaconda Creek          | Old Dam        | Glowing Forest     |
+| Baseball                   | City of the Future   | Titanic Wreckage     | Luxor                   | Police         | Lumber Mill        |
+| Bat                        |                      | Busted Tank          | Zeppelin                | Luxor          | Glowing Forest     |
+| Batteries                  | Versailles           | Zombie Well          | Ruins                   |                |                    |
+| Black Obelisk #            |                      | Crypt                |                         |                |                    |
+| Black Swan                 | Cannibal Village     | Lifeboat             | Anaconda Creek          | Glowing Forest |                    |
+| Bladed Glove #             |                      |                      |                         |                |                    |
+| Blaster #                  |                      | Secret Bunker        | Ruins                   | Ghost Patrol   |                    |
+| Bloody Diamond #           | Titanic Wreckage     |                      |                         |                |                    |
+| Boxer Gloves               | Crash of Flight 815  | Toy Car              | Secret Cave             | Ghost Patrol   | British House      |
+| Camera #                   | City of the Future   |                      |                         |                |                    |
+| Candle                     | Versailles           | Missing Sailboat     | Crypt                   |                | Walking Tree       |
+| Case [Guitar] #            |                      |                      | Old Dam                 |                |                    |
+| Chainsaw                   | Battle Mech          |                      |                         |                |                    |
+| Chaplin's Bowler Hat #     |                      |                      |                         |                | Dinosaur Graveyard |
+| Chocolate Bar              | City of the Future   | Titanic Wreckage     | Versailles              |                |                    |
+| Clown's Mask #             |                      | Crypt                | Gargoyle's House        | Luxor          |                    |
+| Compass #                  |                      |                      | Death from Swamps       | Battle Mech    |                    |
+| Compressed Air Bottle      | Crash of Flight 815  | Zeppelin             | Ghost Patrol            | Train Robbery  | Patrol             |
+| Crossbow #                 |                      |                      | Old Dam                 |                |                    |
+| Crow                       | Cannibal Village     | Gargoyle's House     | Venice Bridge           | Walking Tree   |                    |
+| Crystal Ball #             |                      |                      | Duke's Castle           |                |                    |
+| Crystal Slippers           | Count's Pond         | Missing Sailboat     | Secret Cave             | Walking Tree   |                    |
+| Cup                        | Cannibal Village     | Versailles           | Ruins                   |                | Giant Spider       |
+| Cupid's Bow #              |                      |                      | Death from Swamps       |                |                    |
+| Dalmatian Pup              | Toy Car              | Cannibal Village     | Lifeboat                | Patrol         |                    |
+| Death Mask  #              |                      |                      |                         |                |                    |
+| Face Mask                  | Missing Sailboat     | Busted Tank          | Zeppelin                | Patrol         |                    |
+| Facepiece Respirator #     |                      |                      | Island of Skeletons     |                |                    |
+| Fake Gun #                 | Titanic Wreckage     | Minotaur's Labyrinth | Duke's Castle           | Diplodocus     |                    |
+| Ficus                      | Lifeboat             | Secret Cave          | Anaconda Creek          |                | Giant Spider       |
+| Flashlight                 | Gargoyle's House     | Venice Bridge        | Old Dam                 | Battle Mech    |                    |
+| Flippers #                 |                      |                      |                         |                | Train Robbery      |
+| Fogged-Up Glass            | Cannibal Village     | Count's Pond         | Duke's Castle           | Police         |                    |
+| Football                   | Titanic Wreckage     | Cannibal Village     | The Crash of Flight 815 | Orc            | Seagulls           |
+| Foot Irons                 | Missing Sailboat     | Zombie Well          | Island of Skeletons     | Glowing Forest | British House      |
+| Ghost #                    |                      |                      |                         |                |                    |
+| Gladiator Helmet #         |                      |                      |                         |                |                    |
+| Gold Ring #                |                      |                      |                         |                |                    |
+| Golden Gun                 | Crash of Flight 815  | Busted Tank          | Train Robbery           | Gunship        |                    |
+| Green Jelly/Slime #        |                      |                      |                         | Ghost Patrol   |                    |
+| Grey Mouse                 | Cannibal Village     | Titanic Wreckage     | Death from Swamps       | Walking Tree   |                    |
+| Helm [moto]                | Fallen Plane         | Venice Bridge        | Train Robbery           | Gunship        |                    |
+| Helm [soldier] #           |                      |                      |                         |                |                    |
+| Hockey Mask                | City of the Future   | Death from Swamps    | Venice Bridge           | Kings Cross    |                    |
+| Horseshoe                  | Missing Sailboat     | Anaconda Creek       | Ruins                   | Orc            | Seagulls           |
+| Ice Pick                   | Crash of Flight 815  | Toy Car              | Death from Swamps       | Giant Spider   |                    |
+| Iron Mask                  | Lifeboat             | Versailles           | Death from Swamps       | British House  |                    |
+| Jet Skateboard             | Toy Car              | Versailles           | Busted Tank             |                |                    |
+| Joker Card                 | Crash of Flight 815  | Zombie Well          | Island of Skeletons     | Walking Tree   | Lumber Mill        |
+| Key #                      |                      | Busted Tank          |                         |                |                    |
+| Lifesaver                  | Titanic Wreckage     | Lifeboat             | Island of Skeletons     | Police         | Fishes             |
+| Lightsaber #               | City of the Future   |                      |                         |                |                    |
+| Lime and Tequila #         |                      |                      |                         |                |                    |
+| Lockpick #                 |                      |                      |                         |                |                    |
+| Loki's Mask                | Ruins                | Crypt                | Gargoyle's House        | Ranger's House |                    |
+| Magnifier #                |                      |                      |                         |                |                    |
+| Maltese Knife              | Minotaur's Labyrinth | Zombie Well          | Duke's Castle           | Diplodocus     |                    |
+| Mask #                     |                      |                      | Island of Skeletons     |                | Gargoyle's House   |
+| Model Airplane #           |                      | (Fallen Plane)       |                         | GHost Patrol   |                    |
+| Motorcycle Sticker         | Lumber Mill          |                      |                         |                |                    |
+| Mummmy #                   | City of the Future   |                      | Minotoaur's Labyrinth   | Ghost Patrol + |                    |
+| Opera Mask                 | City of the Future   | Crypt                | Secret Cave             | Seagulls       |                    |
 | Perambulator ...           | Crash of Flight 815  | Count's Pond         | Old Dam                 |                |                    |
-| Pigeon                     |                      | Secret Cave          | Dinosaur Graveyard      |                |                    |
-| Pilot's Glasses            |                      | Old Dam              |                         |                |                    |
-| ! Pink Soap                | Minotaur's Labyrinth | Fallen Plane         | Venice Bridge           | Giant Spider   | British House      |
-| Pipe                       |                      |                      |                         |                |                    |
-| ! Plush Heart              | Crash of Flight 815  | Secret Bunker        | Count's Pond            | Giant Spider   | Seagulls           |
-| ! Predator's Mask          | Giant Spider         | Diplodocus           |                         |                |                    |
-| ! Queen                    | Minotaur's Labyrinth | Gargoyle's House     | Train Robbery           | Kings Cross    | Pterodactyl        |
-| Radio Set                  |                      |                      | Island of Skeletons     |                |                    |
-| ! Red Cape                 | Zombie Well          | Anaconda Creek       | Fallen Plane            | Ghost Patrol   |                    |
-| Revolver                   |                      |                      |                         |                |                    |
-| Rifle                      |                      |                      | Death from Swamps       |                |                    |
-| ! Robin Hood's Bow         | Secret Bunker        | Minotaur's Labyrinth | Zombie Well             | Ranger's House |                    |
-| Roleplaying Mask           | Cannibal Village     | Fallen Plabe         | Secret Bunker           | Violin         |                    |
-| Rope                       |                      | Busted Tank          | Island of Skeletons     | King's Cross   | Venice Bridge      |
-| ! Rose Petals              | Versailles           | Count's Pond         | Old Dam                 | Fishes         |                    |
-| Sankara Stone              |                      |                      | Duke's Castle           |                |                    |
-| ! Sapphire Heart / Pendant | Titanic Wreckage     | Count's Pond         | Lifeboat                |                |                    |
-| ! Scepter                  | Missing Sailboat     | Gargoyle's House     | Venice Bridge           | Lumber Mill    |                    |
-| Scorched Banner            |                      | Fallen Plane         |                         |                |                    |
-| Shell                      |                      | Secret Bunker        | Old Dam                 |                |                    |
-| Sign                       |                      |                      |                         |                |                    |
-| Signet Ring                |                      |                      |                         |                |                    |
-| Six-Barreled Machine Gun   |                      |                      |                         |                |                    |
-| ! Small Spinning Top       | Toy Car              | Dinosaur Graveyard   | Old Dam                 | Police         |                    |
-| Smiling Cat                |                      |                      |                         |                |                    |
-| Space Dollars              | Crash of Flight 815  | Secret Bunker        |                         |                |                    |
-| Spiked Mask                | Anaconda Creek       |                      | Duke's Castle           | Diplodocus     | Dinosaur Graveyard |
-| Stone Car                  |                      |                      |                         |                |                    |
-| Symbolic Stone             |                      |                      |                         |                |                    |
-| ! The Hat                  | Luxor                | Ruins                | Zeppelin                | Police         |                    |
-| ! The Tomahawk             | Minotaur's Labyrinth | Island of Skeletons  | Gargoyle's House        | Gunship        | Ranger's House     |
-| The Tricorn                |                      |                      |                         |                |                    |
-| Treasure Map               | Anaconda Creek       | Secret Cave          | Fishes                  | Orc            | Train Robbery      |
-| ! Videotape                | Toy Car              | Versailles           | Gargoyle's House        | Seagulls       |                    |
-| Violin                     | Missing Sailboat     | Kings Cross          | Duke's Castle           | Ghost Patrol   | Train Robbery      |
-| ! Wedding Ring             | Versailles           | Crypt                | Duke's Castle           | Kings Cross    |                    |
-| Whip                       | Crash of Flight 815  | Busted Tank          | Zeppelin                | Ghost Patrol   | Pterodactyl        |
-| White Feather              |                      |                      |                         |                |                    |
-| White Gloves               |                      | Fallen Plane         |                         |                |                    |
-| Worn Alpenstock            |                      |                      |                         |                |                    |
+| Pigeon #                   |                      | Secret Cave          | Dinosaur Graveyard      |                |                    |
+| Pilot's Glasses #          |                      | Old Dam              |                         |                |                    |
+| Pink Soap                  | Minotaur's Labyrinth | Fallen Plane         | Venice Bridge           | Giant Spider   | British House      |
+| Pipe #                     |                      |                      |                         |                |                    |
+| Plush Heart                | Crash of Flight 815  | Secret Bunker        | Count's Pond            | Giant Spider   | Seagulls           |
+| Predator's Mask            | Giant Spider         | Diplodocus           |                         |                |                    |
+| Queen                      | Minotaur's Labyrinth | Gargoyle's House     | Train Robbery           | Kings Cross    | Pterodactyl        |
+| Radio Set #                |                      |                      | Island of Skeletons     |                |                    |
+| Red Cape                   | Zombie Well          | Anaconda Creek       | Fallen Plane            | Ghost Patrol   |                    |
+| Revolver #                 |                      |                      |                         |                |                    |
+| Rifle #                    |                      |                      | Death from Swamps       |                |                    |
+| Robin Hood's Bow           | Secret Bunker        | Minotaur's Labyrinth | Zombie Well             | Ranger's House |                    |
+| Roleplaying Mask #         | Cannibal Village     | Fallen Plabe         | Secret Bunker           | Violin         |                    |
+| Rope #                     |                      | Busted Tank          | Island of Skeletons     | King's Cross   | Venice Bridge      |
+| Rose Petals                | Versailles           | Count's Pond         | Old Dam                 | Fishes         |                    |
+| Sankara Stone #            |                      |                      | Duke's Castle           |                |                    |
+| Sapphire Heart / Pendant   | Titanic Wreckage     | Count's Pond         | Lifeboat                |                |                    |
+| Scepter                    | Missing Sailboat     | Gargoyle's House     | Venice Bridge           | Lumber Mill    |                    |
+| Scorched Banner            | Zombie Well          | Fallen Plane         | Zeppelin                | Battle Mech    | Suburb             |
+| Shell #                    |                      | Secret Bunker        | Old Dam                 |                |                    |
+| Sign #                     |                      |                      |                         |                |                    |
+| Signet Ring #              |                      |                      |                         |                |                    |
+| Six-Barreled Machine Gun # |                      |                      |                         |                |                    |
+| Small Spinning Top         | Toy Car              | Dinosaur Graveyard   | Old Dam                 | Police         |                    |
+| Smiling Cat #              |                      |                      |                         |                |                    |
+| Space Dollars #            | Crash of Flight 815  | Secret Bunker        |                         |                |                    |
+| Spiked Mask #              | Anaconda Creek       |                      | Duke's Castle           | Diplodocus     | Dinosaur Graveyard |
+| Stone Car #                |                      |                      |                         |                |                    |
+| Symbolic Stone #           |                      |                      |                         |                |                    |
+| The Hat                    | Luxor                | Ruins                | Zeppelin                | Police         |                    |
+| The Tomahawk               | Minotaur's Labyrinth | Island of Skeletons  | Gargoyle's House        | Gunship        | Ranger's House     |
+| Treasure Map #             | Anaconda Creek       | Secret Cave          | Fishes                  | Orc            | Train Robbery      |
+| The Tricorn  #             |                      |                      |                         |                |                    |
+| Videotape                  | Toy Car              | Versailles           | Gargoyle's House        | Seagulls       |                    |
+| Violin #                   | Missing Sailboat     | Kings Cross          | Duke's Castle           | Ghost Patrol   | Train Robbery      |
+| Wedding Ring               | Versailles           | Crypt                | Duke's Castle           | Kings Cross    |                    |
+| Whip #                     | Crash of Flight 815  | Busted Tank          | Zeppelin                | Ghost Patrol   | Pterodactyl        |
+| White Feather #            |                      |                      |                         |                |                    |
+| White Gloves #             |                      | Fallen Plane         |                         |                |                    |
+| Worn Alpenstock #          |                      |                      |                         |                |                    |
