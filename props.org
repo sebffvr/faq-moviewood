@@ -42,7 +42,7 @@ I have not been able to figure out if the genre level affects scoring.
 | Ancient Watch              | Titanic Wreckage     | Secret Bunker        | Count's Pond            | Police         |                    |
 | Army Knife                 | Duke's Castle        | Gargoyle's House     | Zeppelin                | Patrol         |                    |
 | Automatic Weapon           | Ruins                | Busted Tank          | Old Dam                 | Ghost Patrol   |                    |
-| Backpack #                 |                      |                      |                         |                |                    |
+| Backpack                   | Minotaur's Labyrinth | Fallen Plane         | Train Robbery           | Orc            | Pterodactyl        |
 | Badge #                    |                      |                      | Anaconda Creek          |                |                    |
 | Ballet Shoes               | Versailles           | Fallen Plane         | Venice Bridge           | Suburb         |                    |
 | Balloon                    | Missing Sailboat     | Fallen Plane         | Venice Bridge           | Gunship        |                    |
@@ -50,11 +50,12 @@ I have not been able to figure out if the genre level affects scoring.
 | Baseball                   | City of the Future   | Titanic Wreckage     | Luxor                   | Police         | Lumber Mill        |
 | Bat                        |                      | Busted Tank          | Zeppelin                | Luxor          | Glowing Forest     |
 | Batteries                  | Versailles           | Zombie Well          | Ruins                   |                |                    |
+| Bent Teaspoon              |                      |                      |                         |                |                    |
 | Black Obelisk #            |                      | Crypt                |                         |                |                    |
 | Black Swan                 | Cannibal Village     | Lifeboat             | Anaconda Creek          | Glowing Forest |                    |
 | Bladed Glove #             |                      |                      |                         |                |                    |
 | Blaster #                  |                      | Secret Bunker        | Ruins                   | Ghost Patrol   |                    |
-| Bloody Diamond #           | Titanic Wreckage     |                      |                         |                |                    |
+| Bloody Diamond #           | Titanic Wreckage     | Count's Pond         |                         |                |                    |
 | Boxer Gloves               | Crash of Flight 815  | Toy Car              | Secret Cave             | Ghost Patrol   | British House      |
 | Camera #                   | City of the Future   |                      |                         |                |                    |
 | Candle                     | Versailles           | Missing Sailboat     | Crypt                   |                | Walking Tree       |
@@ -62,7 +63,7 @@ I have not been able to figure out if the genre level affects scoring.
 | Chainsaw                   | Battle Mech          |                      |                         |                |                    |
 | Chaplin's Bowler Hat #     |                      |                      |                         |                | Dinosaur Graveyard |
 | Chocolate Bar              | City of the Future   | Titanic Wreckage     | Versailles              |                |                    |
-| Clown's Mask #             |                      | Crypt                | Gargoyle's House        | Luxor          |                    |
+| Clown's Mask #             | Anaconda Creek       | Crypt                | Gargoyle's House        | Luxor          |                    |
 | Compass #                  |                      |                      | Death from Swamps       | Battle Mech    |                    |
 | Compressed Air Bottle      | Crash of Flight 815  | Zeppelin             | Ghost Patrol            | Train Robbery  | Patrol             |
 | Crossbow #                 |                      |                      | Old Dam                 |                |                    |
@@ -75,21 +76,21 @@ I have not been able to figure out if the genre level affects scoring.
 | Death Mask  #              |                      |                      |                         |                |                    |
 | Face Mask                  | Missing Sailboat     | Busted Tank          | Zeppelin                | Patrol         |                    |
 | Facepiece Respirator #     |                      |                      | Island of Skeletons     |                |                    |
-| Fake Gun #                 | Titanic Wreckage     | Minotaur's Labyrinth | Duke's Castle           | Diplodocus     |                    |
+| Fake Gun                   | Titanic Wreckage     | Minotaur's Labyrinth | Duke's Castle           | Diplodocus     |                    |
 | Ficus                      | Lifeboat             | Secret Cave          | Anaconda Creek          |                | Giant Spider       |
 | Flashlight                 | Gargoyle's House     | Venice Bridge        | Old Dam                 | Battle Mech    |                    |
-| Flippers #                 |                      |                      |                         |                | Train Robbery      |
+| Flippers                   | Count's Pond         | Venice Bridge        | Train Robbery           | Glowing Forest | Fishes             |
 | Fogged-Up Glass            | Cannibal Village     | Count's Pond         | Duke's Castle           | Police         |                    |
 | Football                   | Titanic Wreckage     | Cannibal Village     | The Crash of Flight 815 | Orc            | Seagulls           |
 | Foot Irons                 | Missing Sailboat     | Zombie Well          | Island of Skeletons     | Glowing Forest | British House      |
-| Ghost #                    |                      |                      |                         |                |                    |
-| Gladiator Helmet #         |                      |                      |                         |                |                    |
+| Ghost #                    | Luxor                |                      |                         |                |                    |
+| Gladiator Helmet           | Minotaur's Labyrinth | Island of Skeletons  | Venice Bridge           | Lumber Mill    |                    |
 | Gold Ring #                |                      |                      |                         |                |                    |
 | Golden Gun                 | Crash of Flight 815  | Busted Tank          | Train Robbery           | Gunship        |                    |
 | Green Jelly/Slime #        |                      |                      |                         | Ghost Patrol   |                    |
 | Grey Mouse                 | Cannibal Village     | Titanic Wreckage     | Death from Swamps       | Walking Tree   |                    |
 | Helm [moto]                | Fallen Plane         | Venice Bridge        | Train Robbery           | Gunship        |                    |
-| Helm [soldier] #           |                      |                      |                         |                |                    |
+| Helm [soldier] #           | Fallen Plane         |                      |                         |                |                    |
 | Hockey Mask                | City of the Future   | Death from Swamps    | Venice Bridge           | Kings Cross    |                    |
 | Horseshoe                  | Missing Sailboat     | Anaconda Creek       | Ruins                   | Orc            | Seagulls           |
 | Ice Pick                   | Crash of Flight 815  | Toy Car              | Death from Swamps       | Giant Spider   |                    |
@@ -97,6 +98,7 @@ I have not been able to figure out if the genre level affects scoring.
 | Jet Skateboard             | Toy Car              | Versailles           | Busted Tank             |                |                    |
 | Joker Card                 | Crash of Flight 815  | Zombie Well          | Island of Skeletons     | Walking Tree   | Lumber Mill        |
 | Key #                      |                      | Busted Tank          |                         |                |                    |
+| Leather Cloak #            |                      |                      |                         |                |                    |
 | Lifesaver                  | Titanic Wreckage     | Lifeboat             | Island of Skeletons     | Police         | Fishes             |
 | Lightsaber #               | City of the Future   |                      |                         |                |                    |
 | Lime and Tequila #         |                      |                      |                         |                |                    |
@@ -105,7 +107,7 @@ I have not been able to figure out if the genre level affects scoring.
 | Magnifier #                |                      |                      |                         |                |                    |
 | Maltese Knife              | Minotaur's Labyrinth | Zombie Well          | Duke's Castle           | Diplodocus     |                    |
 | Mask #                     |                      |                      | Island of Skeletons     |                | Gargoyle's House   |
-| Model Airplane #           |                      | (Fallen Plane)       |                         | GHost Patrol   |                    |
+| Model Airplane #           |                      | Fallen Plane         |                         | GHost Patrol   |                    |
 | Motorcycle Sticker         | Lumber Mill          |                      |                         |                |                    |
 | Mummmy #                   | City of the Future   |                      | Minotoaur's Labyrinth   | Ghost Patrol + |                    |
 | Opera Mask                 | City of the Future   | Crypt                | Secret Cave             | Seagulls       |                    |
@@ -117,36 +119,101 @@ I have not been able to figure out if the genre level affects scoring.
 | Plush Heart                | Crash of Flight 815  | Secret Bunker        | Count's Pond            | Giant Spider   | Seagulls           |
 | Predator's Mask            | Giant Spider         | Diplodocus           |                         |                |                    |
 | Queen                      | Minotaur's Labyrinth | Gargoyle's House     | Train Robbery           | Kings Cross    | Pterodactyl        |
-| Radio Set #                |                      |                      | Island of Skeletons     |                |                    |
+| Radio Set #                |                      | Train Robbery        | Island of Skeletons     | Ghost Patrol   |                    |
+| Red and Blue Pills         |                      |                      |                         |                |                    |
 | Red Cape                   | Zombie Well          | Anaconda Creek       | Fallen Plane            | Ghost Patrol   |                    |
 | Revolver #                 |                      |                      |                         |                |                    |
 | Rifle #                    |                      |                      | Death from Swamps       |                |                    |
 | Robin Hood's Bow           | Secret Bunker        | Minotaur's Labyrinth | Zombie Well             | Ranger's House |                    |
-| Roleplaying Mask #         | Cannibal Village     | Fallen Plabe         | Secret Bunker           | Violin         |                    |
-| Rope #                     |                      | Busted Tank          | Island of Skeletons     | King's Cross   | Venice Bridge      |
+| Roleplaying Mask #         | Cannibal Village     | Fallen Plabe         | Secret Bunker           |                |                    |
+| Rope                       |                      | Busted Tank          | Island of Skeletons     | King's Cross   | Venice Bridge      |
 | Rose Petals                | Versailles           | Count's Pond         | Old Dam                 | Fishes         |                    |
 | Sankara Stone #            |                      |                      | Duke's Castle           |                |                    |
 | Sapphire Heart / Pendant   | Titanic Wreckage     | Count's Pond         | Lifeboat                |                |                    |
 | Scepter                    | Missing Sailboat     | Gargoyle's House     | Venice Bridge           | Lumber Mill    |                    |
 | Scorched Banner            | Zombie Well          | Fallen Plane         | Zeppelin                | Battle Mech    | Suburb             |
-| Shell #                    |                      | Secret Bunker        | Old Dam                 |                |                    |
+| Shell #                    | Dinosaur Graveyard   | Secret Bunker        | Old Dam                 |                |                    |
 | Sign #                     |                      |                      |                         |                |                    |
 | Signet Ring #              |                      |                      |                         |                |                    |
 | Six-Barreled Machine Gun # |                      |                      |                         |                |                    |
 | Small Spinning Top         | Toy Car              | Dinosaur Graveyard   | Old Dam                 | Police         |                    |
 | Smiling Cat #              |                      |                      |                         |                |                    |
-| Space Dollars #            | Crash of Flight 815  | Secret Bunker        |                         |                |                    |
-| Spiked Mask #              | Anaconda Creek       |                      | Duke's Castle           | Diplodocus     | Dinosaur Graveyard |
+| Space Dollars              | Crash of Flight 815  | Secret Bunker        | Toy Car                 | Fishes         | Suburb             |
+| Spiked Mask                | Anaconda Creek       |                      | Duke's Castle           | Diplodocus     | Dinosaur Graveyard |
 | Stone Car #                |                      |                      |                         |                |                    |
+| Stranger's Mask #          |                      |                      |                         |                |                    |
 | Symbolic Stone #           |                      |                      |                         |                |                    |
 | The Hat                    | Luxor                | Ruins                | Zeppelin                | Police         |                    |
 | The Tomahawk               | Minotaur's Labyrinth | Island of Skeletons  | Gargoyle's House        | Gunship        | Ranger's House     |
 | Treasure Map #             | Anaconda Creek       | Secret Cave          | Fishes                  | Orc            | Train Robbery      |
 | The Tricorn  #             |                      |                      |                         |                |                    |
 | Videotape                  | Toy Car              | Versailles           | Gargoyle's House        | Seagulls       |                    |
-| Violin #                   | Missing Sailboat     | Kings Cross          | Duke's Castle           | Ghost Patrol   | Train Robbery      |
+| Violin                     | Missing Sailboat     | Kings Cross          | Duke's Castle           | Ghost Patrol   | Train Robbery      |
 | Wedding Ring               | Versailles           | Crypt                | Duke's Castle           | Kings Cross    |                    |
 | Whip #                     | Crash of Flight 815  | Busted Tank          | Zeppelin                | Ghost Patrol   | Pterodactyl        |
 | White Feather #            |                      |                      |                         |                |                    |
-| White Gloves #             |                      | Fallen Plane         |                         |                |                    |
+| White Gloves #             | Lifeboat             | Fallen Plane         |                         |                |                    |
 | Worn Alpenstock #          |                      |                      |                         |                |                    |
+| Umbrella #                 |                      |                      |                         |                |                    |
+
+* Prop Exchange Value
+
+Note: The actual cash value received seems to be multipled by a factor related to your level. See main FAQ.
+
+In decreasing order of value. Correlated to rarity but not totally. 
+
+** 400 XP / 12,500
+
+- Gladiator Helmet
+- Pilot's Glasses
+- Red Cape
+- Smiling Cat
+- Whip
+
+** 300 XP  / 10,000 gamebucks
+
+- Automatic Weapon
+- Balloon [don't gift these - see FAQ]
+- Crossbow
+- Face Mask
+- Flippers
+- Fogged-Up Glass
+- Golden Gun
+- Joker Card
+- Key
+- Mask
+- Pigeon
+- Sankara Stone
+- Small Spinning Top
+- Violin
+- Worn Alpenstock
+
+** 200 XP / 7,500 gamebucks
+
+- Adrenaline Syringe
+- Amphora
+- Bent Teaspoon
+- Chainsaw
+- Compressed Air Bottle
+- Green Jelly / Slime
+- Jey Skateboard
+- The Hat
+- Plush Heart
+- Predator's Mask 
+- Red and Blue Pills
+- Roleplaying Mask
+- Scepter
+- Stranger's Mask
+- Umbrella
+
+** 100 XP / 5,000 gamebucks
+
+- Chaplin's Bowler Hat
+- Crystal Slippers
+- Ficus
+- Foot Irons
+- Revolver
+
+** 50XP / 2,500 gamebucks
+
+- Radio Set 
