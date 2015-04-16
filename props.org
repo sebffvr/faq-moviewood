@@ -1,6 +1,5 @@
 
 
-
 * Genre rewards
 
 Unless otherwise noted, Genre upgrade rewards are:
@@ -50,7 +49,6 @@ I have not been able to figure out if the genre level affects scoring.
 | Baseball                   | City of the Future   | Titanic Wreckage     | Luxor                   | Police         | Lumber Mill        |
 | Bat                        |                      | Busted Tank          | Zeppelin                | Luxor          | Glowing Forest     |
 | Batteries                  | Versailles           | Zombie Well          | Ruins                   |                |                    |
-| Bent Teaspoon              |                      |                      |                         |                |                    |
 | Black Obelisk #            |                      | Crypt                |                         |                |                    |
 | Black Swan                 | Cannibal Village     | Lifeboat             | Anaconda Creek          | Glowing Forest |                    |
 | Bladed Glove #             |                      |                      |                         |                |                    |
@@ -71,7 +69,7 @@ I have not been able to figure out if the genre level affects scoring.
 | Crystal Ball #             |                      |                      | Duke's Castle           |                |                    |
 | Crystal Slippers           | Count's Pond         | Missing Sailboat     | Secret Cave             | Walking Tree   |                    |
 | Cup                        | Cannibal Village     | Versailles           | Ruins                   |                | Giant Spider       |
-| Cupid's Bow #              |                      |                      | Death from Swamps       |                |                    |
+| Cupid's Bow #              | Count's Pond         |                      | Death from Swamps       |                |                    |
 | Dalmatian Pup              | Toy Car              | Cannibal Village     | Lifeboat                | Patrol         |                    |
 | Death Mask  #              |                      |                      |                         |                |                    |
 | Face Mask                  | Missing Sailboat     | Busted Tank          | Zeppelin                | Patrol         |                    |
@@ -111,7 +109,7 @@ I have not been able to figure out if the genre level affects scoring.
 | Motorcycle Sticker         | Lumber Mill          |                      |                         |                |                    |
 | Mummmy #                   | City of the Future   |                      | Minotoaur's Labyrinth   | Ghost Patrol + |                    |
 | Opera Mask                 | City of the Future   | Crypt                | Secret Cave             | Seagulls       |                    |
-| Perambulator ...           | Crash of Flight 815  | Count's Pond         | Old Dam                 |                |                    |
+| Perambulator ... #         | Crash of Flight 815  | Count's Pond         | Old Dam                 | Battle Mech    |                    |
 | Pigeon #                   |                      | Secret Cave          | Dinosaur Graveyard      |                |                    |
 | Pilot's Glasses #          |                      | Old Dam              |                         |                |                    |
 | Pink Soap                  | Minotaur's Labyrinth | Fallen Plane         | Venice Bridge           | Giant Spider   | British House      |
@@ -126,7 +124,7 @@ I have not been able to figure out if the genre level affects scoring.
 | Rifle #                    |                      |                      | Death from Swamps       |                |                    |
 | Robin Hood's Bow           | Secret Bunker        | Minotaur's Labyrinth | Zombie Well             | Ranger's House |                    |
 | Roleplaying Mask #         | Cannibal Village     | Fallen Plabe         | Secret Bunker           |                |                    |
-| Rope                       |                      | Busted Tank          | Island of Skeletons     | King's Cross   | Venice Bridge      |
+| Rope #                     |                      | Busted Tank          | Island of Skeletons     | King's Cross   | Venice Bridge      |
 | Rose Petals                | Versailles           | Count's Pond         | Old Dam                 | Fishes         |                    |
 | Sankara Stone #            |                      |                      | Duke's Castle           |                |                    |
 | Sapphire Heart / Pendant   | Titanic Wreckage     | Count's Pond         | Lifeboat                |                |                    |
@@ -155,65 +153,3 @@ I have not been able to figure out if the genre level affects scoring.
 | White Gloves #             | Lifeboat             | Fallen Plane         |                         |                |                    |
 | Worn Alpenstock #          |                      |                      |                         |                |                    |
 | Umbrella #                 |                      |                      |                         |                |                    |
-
-* Prop Exchange Value
-
-Note: The actual cash value received seems to be multipled by a factor related to your level. See main FAQ.
-
-In decreasing order of value. Correlated to rarity but not totally. 
-
-** 400 XP / 12,500
-
-- Gladiator Helmet
-- Pilot's Glasses
-- Red Cape
-- Smiling Cat
-- Whip
-
-** 300 XP  / 10,000 gamebucks
-
-- Automatic Weapon
-- Balloon [don't gift these - see FAQ]
-- Crossbow
-- Face Mask
-- Flippers
-- Fogged-Up Glass
-- Golden Gun
-- Joker Card
-- Key
-- Mask
-- Pigeon
-- Sankara Stone
-- Small Spinning Top
-- Violin
-- Worn Alpenstock
-
-** 200 XP / 7,500 gamebucks
-
-- Adrenaline Syringe
-- Amphora
-- Bent Teaspoon
-- Chainsaw
-- Compressed Air Bottle
-- Green Jelly / Slime
-- Jey Skateboard
-- The Hat
-- Plush Heart
-- Predator's Mask 
-- Red and Blue Pills
-- Roleplaying Mask
-- Scepter
-- Stranger's Mask
-- Umbrella
-
-** 100 XP / 5,000 gamebucks
-
-- Chaplin's Bowler Hat
-- Crystal Slippers
-- Ficus
-- Foot Irons
-- Revolver
-
-** 50XP / 2,500 gamebucks
-
-- Radio Set 
