@@ -71,7 +71,7 @@ I have not been able to figure out if the genre level affects scoring.
 | Crystal Ball #             |                      |                      | Duke's Castle           |                |                    |
 | Crystal Slippers           | Count's Pond         | Missing Sailboat     | Secret Cave             | Walking Tree   |                    |
 | Cup                        | Cannibal Village     | Versailles           | Ruins                   |                | Giant Spider       |
-| Cupid's Bow #              |                      |                      | Death from Swamps       |                |                    |
+| Cupid's Bow #              | Count's Pond                     |                      | Death from Swamps       |                |                    |
 | Dalmatian Pup              | Toy Car              | Cannibal Village     | Lifeboat                | Patrol         |                    |
 | Death Mask  #              |                      |                      |                         |                |                    |
 | Face Mask                  | Missing Sailboat     | Busted Tank          | Zeppelin                | Patrol         |                    |
@@ -111,7 +111,7 @@ I have not been able to figure out if the genre level affects scoring.
 | Motorcycle Sticker         | Lumber Mill          |                      |                         |                |                    |
 | Mummmy #                   | City of the Future   |                      | Minotoaur's Labyrinth   | Ghost Patrol + |                    |
 | Opera Mask                 | City of the Future   | Crypt                | Secret Cave             | Seagulls       |                    |
-| Perambulator ...           | Crash of Flight 815  | Count's Pond         | Old Dam                 |                |                    |
+| Perambulator ... #          | Crash of Flight 815  | Count's Pond         | Old Dam                 | Battle Mech               |                    |
 | Pigeon #                   |                      | Secret Cave          | Dinosaur Graveyard      |                |                    |
 | Pilot's Glasses #          |                      | Old Dam              |                         |                |                    |
 | Pink Soap                  | Minotaur's Labyrinth | Fallen Plane         | Venice Bridge           | Giant Spider   | British House      |
@@ -139,7 +139,7 @@ I have not been able to figure out if the genre level affects scoring.
 | Small Spinning Top         | Toy Car              | Dinosaur Graveyard   | Old Dam                 | Police         |                    |
 | Smiling Cat #              |                      |                      |                         |                |                    |
 | Space Dollars              | Crash of Flight 815  | Secret Bunker        | Toy Car                 | Fishes         | Suburb             |
-| Spiked Mask                | Anaconda Creek       |                      | Duke's Castle           | Diplodocus     | Dinosaur Graveyard |
+| Spiked Mask                | Anaconda iiiCreek       |                      | Duke's Castle           | Diplodocus     | Dinosaur Graveyard |
 | Stone Car #                |                      |                      |                         |                |                    |
 | Stranger's Mask #          |                      |                      |                         |                |                    |
 | Symbolic Stone #           |                      |                      |                         |                |                    |
@@ -155,6 +155,7 @@ I have not been able to figure out if the genre level affects scoring.
 | White Gloves #             | Lifeboat             | Fallen Plane         |                         |                |                    |
 | Worn Alpenstock #          |                      |                      |                         |                |                    |
 | Umbrella #                 |                      |                      |                         |                |                    |
+
 
 * Prop Exchange Value
 
