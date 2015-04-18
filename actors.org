@@ -1,12 +1,8 @@
 
 
-* About this FAQ
 
-Fork me on Github: https://github.com/sebffvr/faq-moviewood
 
-Uploaded to GameFaqs 2015-03-22 by sebffvr
-
-* Actor Star Values
+* Actor Star Values (INCOMPLETE)
 
 (Incomplete / in Progress)
 
@@ -69,39 +65,15 @@ with the actor's total star Sum at the end.
 | Tyllia Live   |     |   2 |     |     |     |     |     |     |     |     |  2 |     |     |   4 |
 #+TBLFM: $15=vsum($2..$14)
 
-* Alias
-
-(I am not into celebrities. Incomplete and possibly wrong.) 
-
-|---------------------+--------------------------|
-| Moviewood name      | Ripoff (sorry, "homage") |
-|---------------------+--------------------------|
-| Jade Faster         | Jodie Foster             |
-| Catie Blondett      | Kate Blanchett           |
-| Annie Jenniston     | Jennifer Anniston        |
-| Ross Crowell        | Russell Crowe            |
-| Al Paco             | Al Pacino                |
-| Geoffry Silverbloom | Jeff Goldblum            |
-| Ross Curtell        | Kurt Russell             |
-| Bill Smith          | Will Smith               |
-| Tyllia Live         | Liv Tyler                |
-| Justin Halfman      | Dustin Hoffman           |
-| Ben der Polo        | Benicio del Toro         |
-| Helena Bynom Cartem | Helena Bonham Cartem     |
-| Debi More           | Demi Moore               |
-| Jack China          | Jackie Chan              |
-| Dug Michaels        | Michael Douglas          |
-| Harry Fordisson     | Harrisson Ford           |
-| Gwen Patrol         | Gwyneth Paltrow          |
-| John Dippo          | Johnny Depp              |
-|                     |                          |
-
-* Favors
+* Favors - VERY INCOMPLETE
 
 Actors will join your studio if you make do on what favour they ask. I
 actually don't know if these are fixed or random, and I don't know
 what triggers the tasks that has the actor as a reward.
 
-| Barbie Dromor | 4 | Build the Secret Bunker set |
-| Bill Smith    | 4 | Shoot 3 movies              |
-|               |   |                             |
+| Barbie Dromor  | Build the Secret Bunker set                  |
+| Bill Smith     | Shoot 3 movies                               |
+| Dug Michaels   | Shoot a Thriller with Profits of over 60,000 |
+| Zele Renwegger | Build the Ruins Set                          |
+| Hary Fordisson | Build the Minotaur's Labyrinth Set           |
+| Coop Bradler   | Build the Swamps set                         |

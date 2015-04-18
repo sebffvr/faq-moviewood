@@ -1,30 +1,45 @@
 
-* Abbreviations
-
-|------+-------------|
-| MC   | Movie Coins |
-| Req. | Required    |
-|------+-------------|
-
 
 * Scenes (Hidden Object Scenes)
 
-|----------------------+-------+----------+---------|
-| Scene                | Level | Cost     | Time to |
-|                      |  Req. |          | Build   |
-|----------------------+-------+----------+---------|
-| Broken Flier         |     1 | 10 MC    | 0 sec   |
-| Children's Room      |     2 | 30 MC    | 5 sec   |
-| The Grand Staircase  |     3 |          |         |
-| Flyaway House        |     4 | 25 G     |         |
-| Lost Hut             |     5 | 125 MC   | 30 min  |
-| Cemetery             |    13 | 2,600 MC | 9 h     |
-|                      |       |          |         |
-| Coral Reef           |    39 | 42,000   | 1d 12h  |
-| School of Magic      |    41 | 43,000   | 1d 12h  |
-| Dinopark             |    43 | 44,000   | 1d 12h  |
-| Town Hall with Clock |    45 | 41,000   | 1d 12h  |
-|                      |       |          |         |
+- MC = Movie Coins
+- G = Gold
+- Lv.Req. = Level Required
+
+|------------------------+------+-----------+---------|
+| Scene                  |  Lv. | Cost      | Time to |
+|                        | Req. |           | Build   |
+|------------------------+------+-----------+---------|
+| Broken Flier           |    1 | 10 MC     | 0 sec   |
+| Children's Room        |    2 | 30 MC     | 5 sec   |
+| The Grand Staircase    |    3 |           | 15 min  |
+| Wonderland             |      | 20 G      | 5 sec   |
+| Lost Hut               |    5 | 125 MC    | 30 min  |
+| Wreckage               |    7 | 350 MC    | 1 hr    |
+| Flyaway House          |    4 | 25 G      | 5 sec   |
+| Wedding Arbor          |    9 | 750 MC    | 3 hr    |
+| Bathyscaph             |   11 | 1,500 MC  | 6 hr    |
+| Cemetery               |   13 | 2,600 MC  | 9 h     |
+| Stone Gate             |      | 25 G      | 5 sec   |
+| The Brig               |   15 | 6,000 MC  | 12 hr   |
+| Temple of the Ancients |   17 | 9,000 MC  | 18 hr   |
+| Shrine                 |   19 | 13,000 MC | 1 day   |
+| Pirate Island          |      | 30 G      | 5 sec   |
+| Abandoned Ship         |   21 | 18,000 MC | 1 day   |
+| Door In The Rock       |   23 | 22,000 MC | 1 day   |
+| Vampire Castle         |   25 | 32,000 MC | 1d 12h  |
+| Boudoir                |   27 | 35,000 MC | 1d 12h  |
+| K-19                   |   29 | 39,000 MC | 1d 12h  |
+| Dwarven Throne         |   31 | 41,000 MC | 1d 12h  |
+| Graveyard of the Sea   |   33 | 43,000 MC | 1d 12h  |
+| Pandora                |   35 | 43,000 MC | 1d 12h  |
+| Fedville               |   37 | 41,000 MC | 1d 12h  |
+| Coral Reef             |   39 | 42,000 MC | 1d 12h  |
+| School of Magic        |   41 | 43,000 MC | 1d 12h  |
+| Dinopark               |   43 | 44,000 MC | 1d 12h  |
+| Town Hall with Clock   |   45 | 41,000 MC | 1d 12h  |
+|------------------------+------+-----------+---------|
+
 
   
 * Props required to upgrade Scenes
@@ -62,14 +77,14 @@ To find which sets drop these props, consult the Props FAQ.
 
 ** Bathyscaph
 
-|------+----------------+---------------+-----------------+--------|
-|  Lv. | Prop 1         | Prop 2        | Prop 3          | Prop 4 |
-|------+----------------+---------------+-----------------+--------|
-|    1 |                |               |                 |        |
-| 2->3 | Baseball x 12  | The Hat x 3   |                 |        |
-| 3->4 | Foot Irons x 3 | Iron Mask x 3 | Loki's Mask x 3 |        |
-|    4 |                |               |                 |        |
-|    5 |                |               |                 |        |
+|------+--------------------+---------------+-----------------+----------------------|
+| Lv.  | Prop 1             | Prop 2        | Prop 3          | Prop 4               |
+|------+--------------------+---------------+-----------------+----------------------|
+| 0->1 |                    |               |                 |                      |
+|      |                    |               |                 |                      |
+| 2->3 | Baseball x 12      | The Hat x 3   |                 |                      |
+| 3->4 | Foot Irons x 3     | Iron Mask x 3 | Loki's Mask x 3 |                      |
+| 4->5 | Space Dollars x 25 | Backpack x 3  | Flippers x 3    | Gladiator Helmet x 3 |
 
 ** Boudoir
 
@@ -94,14 +109,14 @@ To find which sets drop these props, consult the Props FAQ.
 
 ** Cemetery
 
-|------+---------+--------+--------+--------|
-|  Lv. | Prop 1  | Prop 2 | Prop 3 | Prop 4 |
-|------+---------+--------+--------+--------|
-| 0->1 | Bat x 2 |        |        |        |
-|    2 |         |        |        |        |
-|    3 |         |        |        |        |
-|    4 |         |        |        |        |
-|    5 |         |        |        |        |
+|------+--------------------------+--------------------+--------+--------|
+|  Lv. | Prop 1                   | Prop 2             | Prop 3 | Prop 4 |
+|------+--------------------------+--------------------+--------+--------|
+| 0->1 | Bat x 2                  |                    |        |        |
+| 1->2 | Chaplin's Bowler Hat x 5 | Black Obelisks x 3 |        |        |
+|    3 |                          |                    |        |        |
+|    4 |                          |                    |        |        |
+|    5 |                          |                    |        |        |
 
 ** Children's Room 
 
@@ -115,14 +130,14 @@ To find which sets drop these props, consult the Props FAQ.
 
 ** Dwarven Throne
 
-|------+----------------+--------------------+-----------+--------|
-| Lv.  | Prop 1         | Prop 2             | Prop 3    | Prop 4 |
-|------+----------------+--------------------+-----------+--------|
-| 1    |                |                    |           |        |
-| 2    |                |                    |           |        |
-| 2->3 | Magic Wand x 3 | Tomahawk x 18      |           |        |
-| 3->4 | Scepter x 5    | Maltese Knife x 25 | Queen x 5 |        |
-| 4->5 | Crossbow x ?   |                    |           |        |
+|------+----------------+--------------------+--------------+---------------|
+| Lv.  | Prop 1         | Prop 2             | Prop 3       | Prop 4        |
+|------+----------------+--------------------+--------------+---------------|
+| 1    |                |                    |              |               |
+| 2    |                |                    |              |               |
+| 2->3 | Magic Wand x 3 | Tomahawk x 18      |              |               |
+| 3->4 | Scepter x 5    | Maltese Knife x 25 | Queen x 5    |               |
+| 4->5 | Rope x 25      | Stone Car x 7      | Crossbow x 3 | Gold Ring x 3 |
 
 ** Fedville
 
@@ -148,14 +163,14 @@ To find which sets drop these props, consult the Props FAQ.
 
 ** The Grand Staircase
 
-|------+--------------+--------------------+----------------+--------|
-|  Lv. | Prop 1       | Prop 2             | Prop 3         | Prop 4 |
-|------+--------------+--------------------+----------------+--------|
-|    1 | Pendant x 1  |                    |                |        |
-|    2 | Ice pick x 3 | Bat x 1            |                |        |
-| 3->4 | Amphora x 5  | Ancient Watch x 12 | Opera Mask x 5 |        |
-|    4 |              |                    |                |        |
-|    5 |              |                    |                |        |
+|------+-------------------+----------------------+---------------------+--------------------|
+| Lv.  | Prop 1            | Prop 2               | Prop 3              | Prop 4             |
+|------+-------------------+----------------------+---------------------+--------------------|
+| 1    | Pendant x 1       |                      |                     |                    |
+| 2    | Ice pick x 3      | Bat x 1              |                     |                    |
+| 3->4 | Amphora x 5       | Ancient Watch x 12   | Opera Mask x 5      |                    |
+| 4->5 | Chocolate Bar x 3 | Roleplaying Mask x 3 | Fogged up Glass x 3 | Bloody Diamond x 3 |
+|      |                   |                      |                     |                    |
 
 ** Graveyard of the Sea
 
@@ -166,18 +181,19 @@ To find which sets drop these props, consult the Props FAQ.
 |      |                     |           |        |        |
 | 2->3 | Predator's Mask x 2 | Ficus x 4 |        |        |
 | 4    |                     |           |        |        |
-| 4->5 | Amphora x ?         |           |        |        |
+| 4->5 | Amphora x ?         | Crow x ?  |        |        |
 
 ** K-19
 
-|------+------------------------+----------------+--------+--------|
-|  Lv. | Prop 1                 | Prop 2         | Prop 3 | Prop 4 |
-|------+------------------------+----------------+--------+--------|
-|    1 |                        |                |        |        |
-|    2 |                        |                |        |        |
-| 2->3 | Adrenaline Syringe x 3 | Flashlight x 3 |        |        |
-|    4 |                        |                |        |        |
-|    5 |                        |                |        |        |
+|------+-----------------------------+----------------+---------------------+----------------|
+| Lv.  | Prop 1                      | Prop 2         | Prop 3              | Prop 4         |
+|------+-----------------------------+----------------+---------------------+----------------|
+| 1    |                             |                |                     |                |
+| 2    |                             |                |                     |                |
+| 2->3 | Adrenaline Syringe x 3      | Flashlight x 3 |                     |                |
+| 3->4 | Army Knife x 3              | Backpack x 3   | Flippers x 3        |                |
+| 4->5 | 6-Barrelled Machine Gun x 3 | Fake Gun x 3   | Scorched Banner x 3 | Lightsaber x 3 |
+|      |                             |                |                     |                |
 
 ** Lost Hut
 
@@ -193,14 +209,15 @@ To find which sets drop these props, consult the Props FAQ.
 
 ** Pandora
 
-|------+-------------------+------------+--------+--------|
-| Lv.  | Prop 1            | Prop 2     | Prop 3 | Prop 4 |
-|------+-------------------+------------+--------+--------|
-| 0->1 | Treasure map x 17 |            |        |        |
-| 1->2 | Rope x 12         | Helm x 9   |        |        |
-| 2->3 | Chainsaw x 3      | Ficus x 11 |        |        |
-| 3->4 |                   |            |        |        |
-| 4->5 | Amphora x ?       |            |        |        |
+|------+-------------------+-----------------+----------------------+----------|
+| Lv.  | Prop 1            | Prop 2          | Prop 3               | Prop 4   |
+|------+-------------------+-----------------+----------------------+----------|
+| 0->1 | Treasure map x 17 |                 |                      |          |
+| 1->2 | Rope x 12         | Helm x 9        |                      |          |
+| 2->3 | Chainsaw x 3      | Ficus x 11      |                      |          |
+| 3->4 | Flashlight x 7    | Hockey Mask x 6 | Scorched Banner x 5  |          |
+| 4->5 | Army Knife x 13   | Amphora x 9     | Automatic Weapon x 8 | Crow x 5 |
+|------+-------------------+-----------------+----------------------+----------|
 
 ** Shrine
 
@@ -245,7 +262,6 @@ To find which sets drop these props, consult the Props FAQ.
 | 3->4 | Ficus x 3     | Rose Petals x 3 | Pink Soap x 3 |                  |
 | 4->5 | Cup x 3       | Balloon x 3     | Candle x 3    | Wedding Ring x 3 |
 
-
 ** Wreckage
 
 |------+---------------------+-----------------+-------------------+---------------|
@@ -286,7 +302,7 @@ To see what props are dropped by these sets, visit the props FAQ.
 | Old Dam               |    28 |           |         |            |            |
 | Ghost Patrol          |    30 |           |         |            |            |
 | Gunship               |    35 |           |         |            |            |
-| Seagulls              |    38 |           |         |            |            |
+| Seagulls              |    38 | 750,000   | 1d      | 170 / 4h   |       1020 |
 | British House         |    40 |           |         |            |            |
 | Suburb                |    41 |           |         |            |            |
 | Kings Cross           |    42 |           |         |            |            |
@@ -312,3 +328,4 @@ To see what props are dropped by these sets, visit the props FAQ.
 | Japanese Cherry Tree |       | 116,000 | 15m     |       |            |
 | Blue Flowers         |    12 |         |         |       |            |
 | Sun Dial             |    13 |         |         |       |            |
+| Greek Portico        |    14 |         |         |       |            |

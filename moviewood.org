@@ -4,8 +4,21 @@
 
 Uploaded to GameFaqs 2015-04-05 by sebffvr
 
-You can send patches for this guide on Github:
+The walkthrough and my item/scene/actor guides can be found on the
+following repository on Github:
+
 https://github.com/sebffvr/faq-moviewood
+
+Please send additions/corrections! You can do this either by issuing a
+pull request or if you don't know how, open an issue here:
+
+https://github.com/sebffvr/faq-moviewood/issues
+
+with your input. 
+
+You can treat this file as plain text (.txt) - in reality the source
+is in emacs org-mode format (.org), which auto-formats the tables
+among other great features.
 
 This FAQ is largely complete though I am still adding some hints. It
 is based on the iOS/iPad version of this game.
@@ -239,11 +252,12 @@ through Gamecenter or Facebook; you can also friend random Moviewood
 players by inviting them (though it costs you 5 gold for 5 invites -
 use judiciously).
 
-You can also add friends by their in-game ID. For example, my in-game
-ID is e3d7a1b33639 (feel free to try it - I'm trying to figure out if
-there is a friend limit). If you play the game on multiple devices
-(eg. iPhone and iPad) you will have different IDs and can friend your
-other self.
+You can also add friends by their in-game ID (they may have to put in
+you ID too). If you play the game on multiple devices (eg. iPhone and
+iPad) you will have different IDs and can friend your other self.
+
+If there is a limit to the numbr of friends, it is over 80.
+
 
 You cannot delete a friend once added. If there is a limit in how many
 you can have, I have not yet hit it (currently at ~ 50). If you pay
