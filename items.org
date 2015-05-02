@@ -5,13 +5,14 @@
 
 Uploaded to GameFaqs by sebffvr
 
-The walkthrough and my item/scene/actor guide can be found on the
-following repository on Github:
+My strategy guide and my item/scene/actor guide can be found on the
+following repository on Github in their latest form:
 
 https://github.com/sebffvr/faq-moviewood
 
 See the README there on how to contribute additions and corrections.
 
+I am uploading it despite the fact that it is incomplete because there's no other guide, and there is good coverage of for most of the game. 
 
 * Scenes, Sets and Decorations
 
@@ -397,29 +398,29 @@ Unless otherwise noted, Genre upgrade rewards are:
 
 Level 1->2: 25,000
 Level 2->3: 50,000
-Level 3->4: 
+Level 3->4: 100,000 (?)
 Level 4->5: 200,000
 Level 5->6: 500,000
 
 I have not been able to figure out if the genre level affects scoring. 
 
-|-----------------+------------+------------+--------------+-------------------|
-| Genre           | Level 2->3 | Level 3->4 | Level 4->5   | Level 5->6        |
-|-----------------+------------+------------+--------------+-------------------|
-| Action          |            |            |              |                   |
-| Adventure       | 50,000     |            | Laura Statue |                   |
-| Biography       |            |            |              |                   |
-| Comedy          | 50,000     |            |              | Chaplin Statue    |
-| Crime           |            |            |              | Gangster Statue   |
-| Drama           |            |            | Girl Statue  |                   |
-| Fantasy         |            |            |              |                   |
-| Horror          |            |            |              | Somebody's Statue |
-| Mystery         |            |            | Ghost Statue |                   |
-| Romance         |            |            |              |                   |
-| Science Fiction |            | 1 gold     |              |                   |
-| Thriller        |            |            |              |                   |
-| War             |            | 1 gold     |              |                   |
-|-----------------+------------+------------+--------------+-------------------|
+|-----------------+------------+--------------+-------------------|
+| Genre           | Level 3->4 | Level 4->5   | Level 5->6        |
+|-----------------+------------+--------------+-------------------|
+| Action          |            |              |                   |
+| Adventure       |            | Laura Statue |                   |
+| Biography       |            |              |                   |
+| Comedy          |            |              | Chaplin Statue    |
+| Crime           |            |              | Gangster Statue   |
+| Drama           |            | Girl Statue  |                   |
+| Fantasy         |            |              |                   |
+| Horror          |            |              | Somebody's Statue |
+| Mystery         |            | Ghost Statue |                   |
+| Romance         |            |              |                   |
+| Science Fiction | 1 gold     |              |                   |
+| Thriller        |            |              |                   |
+| War             | 1 gold     |              |                   |
+|-----------------+------------+--------------+-------------------|
 
 
 
@@ -773,25 +774,3 @@ with the actor's total star Sum at the end.
 #+TBLFM: $15=vsum($2..$14)
 
 
-** Favors - VERY INCOMPLETE
-
-Actors will join your studio if you make do on what favour they
-ask. These seem to be random, and I don't know what triggers the tasks
-that has the actor as a reward.
-
-| Barbie Dromor     | Build the Secret Bunker set                  |
-| Bill Smith        | Shoot 3 movies                               |
-| Dug Michaels      | Shoot a Thriller with Profits of over 60,000 |
-| Tim Diamond       | Build Crash of Flight 815                    |
-| Zele Renwegger    | Build the Ruins Set                          |
-| Hary Fordisson    | Build the Minotaur's Labyrinth Set           |
-| Coop Bradler      | Build the Swamps set                         |
-| Patrick Robertson | Shoot 8 Mysteries                            |
-| Doug Michaels     | Thriller: $60,000                            |
-| Rad Dedcliff      | Shoot 7 movies                               |
-
-|                   |                                              |
-| Jade Foster       | Crime: $360,000 Thriller: $370,000           |
-| Amy Termin        | Crime: $318,000                              |
-| Maddy Rove        | Thriller: $280,000                           |
-|
