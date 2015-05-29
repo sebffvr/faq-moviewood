@@ -12,7 +12,12 @@ https://github.com/sebffvr/faq-moviewood
 
 See the README there on how to contribute additions and corrections.
 
-I am uploading it despite the fact that it is incomplete because there's no other guide, and there is good coverage of for most of the game. 
+I am uploading it despite the fact that it is incomplete because
+there's no other guide, and there is good coverage of for most of the
+game. It covers the game reasonably until Level 45. In May 2015,
+another set of scenes and sets was released (up to 53). I will add
+those in the next version of this FAQ.
+
 
 * Scenes, Sets and Decorations
 
@@ -28,11 +33,11 @@ I am uploading it despite the fact that it is incomplete because there's no othe
 |------------------------+------+-----------+---------|
 | Broken Flier           |    1 | 10 MC     | 0 sec   |
 | Children's Room        |    2 | 30 MC     | 5 sec   |
-| The Grand Staircase    |    3 |           | 15 min  |
+| The Grand Staircase    |    3 | 70 MC     | 15 min  |
 | Wonderland             |    - | 20 G      | 5 sec   |
 | Lost Hut               |    5 | 125 MC    | 30 min  |
 | Wreckage               |    7 | 350 MC    | 1 hr    |
-| Flyaway House          |    4 | 25 G      | 5 sec   |
+| Flyaway House          |    - | 25 G      | 5 sec   |
 | Wedding Arbor          |    9 | 750 MC    | 3 hr    |
 | Bathyscaph             |   11 | 1,500 MC  | 6 hr    |
 | Cemetery               |   13 | 2,600 MC  | 9 h     |
@@ -55,275 +60,6 @@ I am uploading it despite the fact that it is incomplete because there's no othe
 | Dinopark               |   43 | 44,000 MC | 1d 12h  |
 | Town Hall with Clock   |   45 | 41,000 MC | 1d 12h  |
 |------------------------+------+-----------+---------|
-
-
-  
-** Props required to upgrade Scenes
-
-In addition to the props listed:
-
-- 1 blueprint is needed to upgrade from level 2 to level 3
-- 2 blueprints are needed to upgrade from level 3 to level 4
-1- 3 blueprints are needed to upgrade from level 4 to level 5
-
-To find which sets drop these props, consult the Props FAQ.
-
-*** Template
-
-|-----+--------+--------+--------+--------|
-| Lv. | Prop 1 | Prop 2 | Prop 3 | Prop 4 |
-|-----+--------+--------+--------+--------|
-|   1 |        |        |        |        |
-|   2 |        |        |        |        |
-|   3 |        |        |        |        |
-|   4 |        |        |        |        |
-|   5 |        |        |        |        |
-
-
-*** Abandoned Ship
-
-|------+--------------------+---------------+----------------+--------|
-|  Lv. | Prop 1             | Prop 2        | Prop 3         | Prop 4 |
-|------+--------------------+---------------+----------------+--------|
-|    1 |                    |               |                |        |
-|    2 |                    |               |                |        |
-|    3 |                    |               |                |        |
-| 3->4 | Grey Mouse x 25    | Face Mask x 7 | Helm [Moto]x 3 |        |
-| 4->5 | Jet Skateboard x ? | Key x ?       |                |        |
-
-*** Bathyscaph
-
-|------+--------------------+---------------+-----------------+----------------------|
-| Lv.  | Prop 1             | Prop 2        | Prop 3          | Prop 4               |
-|------+--------------------+---------------+-----------------+----------------------|
-| 0->1 |                    |               |                 |                      |
-|      |                    |               |                 |                      |
-| 2->3 | Baseball x 12      | The Hat x 3   |                 |                      |
-| 3->4 | Foot Irons x 3     | Iron Mask x 3 | Loki's Mask x 3 |                      |
-| 4->5 | Space Dollars x 25 | Backpack x 3  | Flippers x 3    | Gladiator Helmet x 3 |
-
-*** Boudoir
-
-|-----+--------------------------+---------------------------+---------------+-----------|
-| Lv. | Prop 1                   | Prop 2                    | Prop 3        | Prop 4    |
-|-----+--------------------------+---------------------------+---------------+-----------|
-|   1 |                          |                           |               |           |
-|   2 |                          |                           |               |           |
-|   3 |                          |                           |               |           |
-|   4 | Chaplin's Bolwer Hat x 3 | Rolepaying Mask x 3       | Violin x 3    |           |
-|   5 | Helm x 3                 | Compressed Air Bottle x 3 | Pink Soap x 3 | Banjo x 3 |
-
-*** The Brig
-
-|------+--------------+------------+--------------+--------|
-|  Lv. | Prop 1       | Prop 2     | Prop 3       | Prop 4 |
-|------+--------------+------------+--------------+--------|
-|    1 |              |            |              |        |
-|    2 |              |            |              |        |
-|    3 |              |            |              |        |
-| 3->4 | Revolver x 7 | Candle x 3 | Crossbow x 3 |        |
-|    5 |              |            |              |        |
-
-*** Broken Flier
-
-|------+---------------+---------------------+----------------------|
-|  Lv. | Prop 1        | Prop 2              | Prop 3               |
-|------+---------------+---------------------+----------------------|
-|    1 | Blaster x 1   |                     |                      |
-|    2 | Mummy x 2     | Lightsaber x 2      |                      |
-| 3->4 | Baseball x 12 | Jet Skateboard x 12 | Automatic Weapon x 3 |
-|      |               |                     |                      |
-
-*** Cemetery
-
-|------+--------------------------+--------------------+--------+--------|
-| Lv.  | Prop 1                   | Prop 2             | Prop 3 | Prop 4 |
-|------+--------------------------+--------------------+--------+--------|
-| 0->1 | Bat x 2                  |                    |        |        |
-| 1->2 | Chaplin's Bowler Hat x 5 | Black Obelisks x 3 |        |        |
-| 2->3 | Hockey Mask x 3          | Ghost x 3          |        |        |
-| 4    |                          |                    |        |        |
-| 5    |                          |                    |        |        |
-
-*** Children's Room 
-
-|------+-------------------+-----------------+------------------------+------------------|
-|  Lv. | Prop 1            | Prop 2          | Prop 3                 | Prop 4           |
-|------+-------------------+-----------------+------------------------+------------------|
-|    1 | Videotape x 1     |                 |                        |                  |
-|    2 | Perambulator x 2  | Chocolate x 2   |                        |                  |
-|    3 | Football x 11     | Fake Gun x 7    | Small Spinning Top x 3 |                  |
-| 4->5 | Dalmatian Pup x 3 | Hockey Mask x 3 | Ballet Shoes x 3       | Boxer Gloves x 3 |
-
-*** Coral Reef
-
-|------+----------------------+--------------------------+---------------------+--------------|
-| Lv.  | Prop 1               | Prop 2                   | Prop 3              | Prop 4       |
-|------+----------------------+--------------------------+---------------------+--------------|
-| 0->1 | Pendant x 17         |                          |                     |              |
-| 1->2 | Shell x 14           | Flashlight x 11          |                     |              |
-| 2->3 | Bent Teaspoon x 1    | Chaplin's Bowler Hat x 5 |                     |              |
-| 3->4 | Baseball x ?         | Small Spinning Top x ?   | Black Swan x        |              |
-| 4->5 | Crystal Slippers x ? | Compressed Oxyegn Bottle | Worn Alpenstock x ? | Red Cape x ? |
-
-*** Dwarven Throne
-
-|------+----------------+--------------------+--------------+---------------|
-| Lv.  | Prop 1         | Prop 2             | Prop 3       | Prop 4        |
-|------+----------------+--------------------+--------------+---------------|
-| 1    |                |                    |              |               |
-| 2    |                |                    |              |               |
-| 2->3 | Magic Wand x 3 | Tomahawk x 5       |              |               |
-| 3->4 | Scepter x 5    | Maltese Knife x 25 | Queen x 5    |               |
-| 4->5 | Rope x 25      | Stone Car x 7      | Crossbow x 3 | Gold Ring x 3 |
-
-*** Fedville
-
-|------+------------------------+-----------------+-----------+---------|
-| Lv.  | Prop 1                 | Prop 2          | Prop 3    | Prop 4  |
-|------+------------------------+-----------------+-----------+---------|
-| 0->1 | Badge x 15             |                 |           |         |
-| 1->2 | Horseshoe x 5          | Football x 3    |           |         |
-| 2->3 | Motorcycle Sticker x 2 | Ice pick x 3    |           |         |
-| 3->4 | Stone Car x 5          | Helm [Moto] x 4 | Queen x 4 |         |
-| 4->5 | The Tomahawk x 4       | Smiling cat x 6 | Ghost x 7 | Key x 11 |
-
-*** Flyaway House
-
-|------+---------------+---------------------------+-------------+---------------------|
-| Lv.  | Prop 1        | Prop 2                    | Prop 3      | Prop 4              |
-|------+---------------+---------------------------+-------------+---------------------|
-| 1    | Badge x 1     |                           |             |                     |
-| 2    | Baseball x 3  | Shell x 3                 |             |                     |
-| 2->3 | Videotape x 7 | Jet Skateboard x 11       |             |                     |
-| 3->4 | Batteries x 5 | Compressed Air Bottle x 5 | Balloon x 5 |                     |
-| 4->5 | Radio Set x 7 | White Feather x 7         | Camera x 5  | Pilot's glasses x 5 |
-|------+---------------+---------------------------+-------------+---------------------|
-
-*** The Grand Staircase
-
-|------+-------------------+----------------------+---------------------+--------------------|
-| Lv.  | Prop 1            | Prop 2               | Prop 3              | Prop 4             |
-|------+-------------------+----------------------+---------------------+--------------------|
-| 1    | Pendant x 1       |                      |                     |                    |
-| 2    | Ice pick x 3      | Bat x 1              |                     |                    |
-| 3->4 | Amphora x 5       | Ancient Watch x 12   | Opera Mask x 5      |                    |
-| 4->5 | Chocolate Bar x 3 | Roleplaying Mask x 3 | Fogged up Glass x 3 | Bloody Diamond x 3 |
-|      |                   |                      |                     |                    |
-
-*** Graveyard of the Sea
-
-|------+---------------------+-----------------+----------------------+----------|
-| Lv.  | Prop 1              | Prop 2          | Prop 3               | Prop 4   |
-|------+---------------------+-----------------+----------------------+----------|
-| 1    |                     |                 |                      |          |
-|      |                     |                 |                      |          |
-| 2->3 | Predator's Mask x 2 | Ficus x 4       |                      |          |
-| 3->4 | Flashlight x 3      | Hockey Mask x 3 | Schorched Banner x 3 |          |
-| 4->5 | Army Knife x 9      | Amphora x 3     | Automatic Weapon x 3 | Crow x 3 |
-|------+---------------------+-----------------+----------------------+----------|
-
-*** K-19
-
-|------+-----------------------------+----------------+---------------------+----------------|
-| Lv.  | Prop 1                      | Prop 2         | Prop 3              | Prop 4         |
-|------+-----------------------------+----------------+---------------------+----------------|
-| 1    |                             |                |                     |                |
-| 2    |                             |                |                     |                |
-| 2->3 | Adrenaline Syringe x 3      | Flashlight x 3 |                     |                |
-| 3->4 | Army Knife x 3              | Backpack x 3   | Flippers x 3        |                |
-| 4->5 | 6-Barrelled Machine Gun x 3 | Fake Gun x 3   | Scorched Banner x 3 | Lightsaber x 3 |
-|      |                             |                |                     |                |
-
-*** Lost Hut
-
-|------+----------------------+----------------+------------------+----------|
-|  Lv. | Prop 1               | Prop 2         | Prop 3           | Prop 4   |
-|------+----------------------+----------------+------------------+----------|
-|    1 |                      |                |                  |          |
-|    2 |                      |                |                  |          |
-|    3 |                      |                |                  |          |
-| 3->4 | Robin Hood's Bow x 7 | Golden Gun x 3 | The Tomahawk x 3 |          |
-| 4->5 | Badge x 3            | Mask x 3       | Pipe x 3         | Whip x 3 |
-
-*** Pandora
-
-|------+-------------------+-----------------+----------------------+----------|
-| Lv.  | Prop 1            | Prop 2          | Prop 3               | Prop 4   |
-|------+-------------------+-----------------+----------------------+----------|
-| 0->1 | Treasure map x 17 |                 |                      |          |
-| 1->2 | Rope x 12         | Helm x 9        |                      |          |
-| 2->3 | Chainsaw x 3      | Ficus x 11      |                      |          |
-| 3->4 | Flashlight x 7    | Hockey Mask x 6 | Scorched Banner x 5  |          |
-| 4->5 | Army Knife x 13   | Amphora x 9     | Automatic Weapon x 8 | Crow x 5 |
-|------+-------------------+-----------------+----------------------+----------|
-
-*** School of Magic
-
-|------+------------------------+-------------------+----------+--------|
-| Lv.  | Prop 1                 | Prop 2            | Prop 3   | Prop 4 |
-|------+------------------------+-------------------+----------+--------|
-| 0->1 | Cupid's Bow x 14       |                   |          |        |
-| 1->2 | White Gloves x 9       | The Tricorn x 6   |          |        |
-| 2->3 | Red and Blue Pills x 3 | Ancient Watch x 1 |          |        |
-| 4    | Foot Irons x           | Magic Wand x      | Pigeon x |        |
-| 5    | Face Mask x            |                   |          |        |
-
-
-*** Shrine
-
-|-----+----------------------+------------------------+----------------+--------------|
-| Lv. | Prop 1               | Prop 2                 | Prop 3         | Prop 4       |
-|-----+----------------------+------------------------+----------------+--------------|
-|   1 |                      |                        |                |              |
-|   2 |                      |                        |                |              |
-|   3 |                      |                        |                |              |
-|   4 |                      |                        |                |              |
-|   5 | Crystal Slippers x 5 | Small Spinning Top x 5 | Black Swan x 5 | Red Cape x 5 |
-
-*** Stone Gate
-
-|-----+------------------+--------------+-----------------+-----------------------|
-| Lv. | Prop 1           | Prop 2       | Prop 3          | Prop 4                |
-|-----+------------------+--------------+-----------------+-----------------------|
-|   1 |                  |              |                 |                       |
-|   2 |                  |              |                 |                       |
-|   3 |                  |              |                 |                       |
-|   4 |                  |              |                 |                       |
-|   5 | Crystal Ball x 3 | Tomahawk x 3 | Loki's Mask x 3 | Barbarian's Sword x 3 |
-
-*** Vampire Castle
-
-|-----+----------------+-----------+---------------+------------------|
-| Lv. | Prop 1         | Prop 2    | Prop 3        | Prop 4           |
-|-----+----------------+-----------+---------------+------------------|
-|   1 |                |           |               |                  |
-|   2 |                |           |               |                  |
-|   3 |                |           |               |                  |
-|   4 | Pendant x ?    |           |               |                  |
-|   5 | Foot Irons x 3 | Rifle x 3 | Face Mask x 3 | Bladed Glove x 3 |
-*** Wedding Arbor
-
-|------+---------------+-----------------+---------------+------------------|
-| Lv.  | Prop 1        | Prop 2          | Prop 3        | Prop 4           |
-|------+---------------+-----------------+---------------+------------------|
-|      |               |                 |               |                  |
-| 1    |               |                 |               |                  |
-| 2    | Batteries x 3 | Plush Heart x 5 |               |                  |
-| 3->4 | Ficus x 3     | Rose Petals x 3 | Pink Soap x 3 |                  |
-| 4->5 | Cup x 3       | Balloon x 3     | Candle x 3    | Wedding Ring x 3 |
-
-*** Wreckage
-
-|------+---------------------+-----------------+-------------------+---------------|
-|  Lv. | Prop 1              | Prop 2          | Prop 3            | Prop 4        |
-|------+---------------------+-----------------+-------------------+---------------|
-|    1 |                     |                 |                   |               |
-|    2 |                     |                 |                   |               |
-|    3 |                     |                 |                   |               |
-| 3->4 | Fogged-up Glass x 7 | Plush Heart x 9 | Chocolate Bar x 9 |               |
-| 4->5 | Pendant x 20        | Rose Petals x 8 | Joker Card x 5    | Lifesaver x 5 |
-|------+---------------------+-----------------+-------------------+---------------|
 
 
 ** Sets (Movie Coin Drops)
@@ -358,10 +94,11 @@ To find which sets drop these props, consult the Props FAQ.
 | Seagulls              |    38 | 750,000   | 1d      | 170 / 4h   |       1020 |
 | Fishes                |    39 | 9,000,000 | 16h     | 237 / 8    |        711 |
 | British House         |    40 |           |         |            |            |
-| Suburb                |    41 |           |         |            |            |
+| Suburb                |    41 | 8,500,000 | 1d      | 230 / 8h   |            |
 | Kings Cross           |    42 |           |         |            |            |
 | Diplodocus            |    43 |           |         |            |            |
 | Patrol                |    44 |           |         |            |            |
+| Pterodactyl           |    44 |           |         |            |            |
 | Ranger's House        |    45 |           |         |            |            |
 
 
@@ -373,6 +110,7 @@ To find which sets drop these props, consult the Props FAQ.
 |----------------------+-------+------------+---------+----------+-------|
 | Golden Statue        |     2 | 10,000     | Instant |          |       |
 | Mermaid Fountain     |     2 | 25,000     | Instant |          |       |
+| Girl with Katana     |     - | 20 G       |         |          |       |
 | Mountain Tree        |     3 | 25,000     | Instant |          |       |
 | Minotaur Statue      |     3 | 40,000     | Instant |          |       |
 | Fir Tree             |     4 | 54,000     | Instant |          |       |
@@ -386,45 +124,347 @@ To find which sets drop these props, consult the Props FAQ.
 | Sun Dial             |    13 |            |         |          |       |
 | Greek Portico        |    14 |            |         |          |       |
 | Minotaur's Gate      |    15 |            |         |          |       |
+| Bencg                |    18 |            |         |          |       |
 | Magic Hat            |   n/a | daily gift | Instant | 10 / 1hr | 240   |
 | s103_DEC_Bone_Horse  |    41 |            |         |          |       |
+| Owl                  |    42 |            |         |          |       |
+| Rock Guitarist       |    45 |            |         |          |       |
+| Skater               |    45 |            |         |          |       |
 
 
+  
 * Props
 
-** Genre rewards (INCOMPLETE)
+** Props required to upgrade Scenes
 
-Unless otherwise noted, Genre upgrade rewards are:
+In addition to the props listed:
 
-Level 1->2: 25,000
-Level 2->3: 50,000
-Level 3->4: 100,000 (?)
-Level 4->5: 200,000
-Level 5->6: 500,000
+- 1 blueprint is needed to upgrade from level 2 to level 3
+- 2 blueprints are needed to upgrade from level 3 to level 4
+1- 3 blueprints are needed to upgrade from level 4 to level 5
 
-I have not been able to figure out if the genre level affects scoring. 
+To find which sets drop these props, consult the Props FAQ.
 
-|-----------------+------------+--------------+-------------------|
-| Genre           | Level 3->4 | Level 4->5   | Level 5->6        |
-|-----------------+------------+--------------+-------------------|
-| Action          |            |              |                   |
-| Adventure       |            | Laura Statue |                   |
-| Biography       |            |              |                   |
-| Comedy          |            |              | Chaplin Statue    |
-| Crime           |            |              | Gangster Statue   |
-| Drama           |            | Girl Statue  |                   |
-| Fantasy         |            |              |                   |
-| Horror          |            |              | Somebody's Statue |
-| Mystery         |            | Ghost Statue |                   |
-| Romance         |            |              |                   |
-| Science Fiction | 1 gold     |              |                   |
-| Thriller        |            |              |                   |
-| War             | 1 gold     |              |                   |
-|-----------------+------------+--------------+-------------------|
+*** Template
+
+|-----+--------+--------+--------+--------|
+| Lv. | Prop 1 | Prop 2 | Prop 3 | Prop 4 |
+|-----+--------+--------+--------+--------|
+|   1 |        |        |        |        |
+|   2 |        |        |        |        |
+|   3 |        |        |        |        |
+|   4 |        |        |        |        |
+|   5 |        |        |        |        |
 
 
 
-** Props and the Sets that Drop them (MOSTLY COMPLETE)
+*** Abandoned Ship ?
+
+|------+--------------------+---------------+--------------------+---------------|
+|  Lv. | Prop 1             | Prop 2        | Prop 3             | Prop 4        |
+|------+--------------------+---------------+--------------------+---------------|
+|    1 |                    |               |                    |               |
+|    2 |                    |               |                    |               |
+|    3 |                    |               |                    |               |
+| 3->4 | Grey Mouse x 25    | Face Mask x 7 | Helm [Moto]x 3     |               |
+| 4->5 | Model Airplane x 3 | Key x 3       | Jet Skateboard x 3 | Magnifier x 3 |
+|------+--------------------+---------------+--------------------+---------------|
+
+*** Bathyscaph ?NG
+
+|------+--------------------+---------------+-----------------+----------------------|
+| Lv.  | Prop 1             | Prop 2        | Prop 3          | Prop 4               |
+|------+--------------------+---------------+-----------------+----------------------|
+| 0->1 |                    |               |                 |                      |
+| 1->2 |                    |               |                 |                      |
+| 2->3 | Baseball x 12      | The Hat x 3   |                 |                      |
+| 3->4 | Foot Irons x 3     | Iron Mask x 3 | Loki's Mask x 3 |                      |
+| 4->5 | Space Dollars x 25 | Backpack x 3  | Flippers x 3    | Gladiator Helmet x 3 |
+
+*** Boudoir ?
+
+|-----+--------------------------+---------------------------+---------------+-----------|
+| Lv. | Prop 1                   | Prop 2                    | Prop 3        | Prop 4    |
+|-----+--------------------------+---------------------------+---------------+-----------|
+|   1 |                          |                           |               |           |
+|   2 |                          |                           |               |           |
+|   3 |                          |                           |               |           |
+|   4 | Chaplin's Bolwer Hat x 3 | Rolepaying Mask x 3       | Violin x 3    |           |
+|   5 | Helm x 3                 | Compressed Air Bottle x 3 | Pink Soap x 3 | Banjo x 3 |
+
+*** The Brig ?
+
+|------+--------------------------+-------------------+--------------+--------|
+| Lv.  | Prop 1                   | Prop 2            | Prop 3       | Prop 4 |
+|------+--------------------------+-------------------+--------------+--------|
+| 0->1 | Horseshoe x 1            |                   |              |        |
+| 1->2 | Chaplin's Bowler Hat x 5 | Black Obelisk x 3 |              |        |
+| 2->3 | The Tricorn x 3          | Pipe x 3          |              |        |
+| 3->4 | Revolver x 7             | Candle x 3        | Crossbow x 3 |        |
+|      |                          |                   |              |        |
+|------+--------------------------+-------------------+--------------+--------|
+
+*** Broken Flier ?NG
+
+|------+-------------------+---------------------+----------------------+--------------------------|
+| Lv.  | Prop 1            | Prop 2              | Prop 3               | Prop 4                   |
+|------+-------------------+---------------------+----------------------+--------------------------|
+| 1    | Blaster x 1       |                     |                      |                          |
+| 2    | Mummy x 2         | Lightsaber x 2      |                      |                          |
+| 3->4 | Baseball x 12     | Jet Skateboard x 12 | Automatic Weapon x 3 |                          |
+| 4->5 | Black Obelisk x 3 | Green Jelly x 3     | Golden Gun x 3       | Facepiece Respirator x 3 |
+|------+-------------------+---------------------+----------------------+--------------------------|
+
+*** Cemetery ?
+
+|------+--------------------------+--------------------+-------------+--------|
+| Lv.  | Prop 1                   | Prop 2             | Prop 3      | Prop 4 |
+|------+--------------------------+--------------------+-------------+--------|
+| 0->1 | Bat x 2                  |                    |             |        |
+| 1->2 | Chaplin's Bowler Hat x 5 | Black Obelisks x 3 |             |        |
+| 2->3 | Hockey Mask x 3          | Ghost x 3          |             |        |
+| 3->4 | Clown's Mask x 10        | The Hat x 3        | The Key x 3 |        |
+| 5    |                          |                    |             |        |
+
+*** Children's Room ?NG
+
+|------+-------------------+-----------------+------------------------+------------------|
+|  Lv. | Prop 1            | Prop 2          | Prop 3                 | Prop 4           |
+|------+-------------------+-----------------+------------------------+------------------|
+|    1 | Videotape x 1     |                 |                        |                  |
+|    2 | Perambulator x 2  | Chocolate x 2   |                        |                  |
+|    3 | Football x 11     | Fake Gun x 7    | Small Spinning Top x 3 |                  |
+| 4->5 | Dalmatian Pup x 3 | Hockey Mask x 3 | Ballet Shoes x 3       | Boxer Gloves x 3 |
+
+*** Coral Reef ?
+
+|------+-----------------------+------------------------------+----------------------+--------------|
+| Lv.  | Prop 1                | Prop 2                       | Prop 3               | Prop 4       |
+|------+-----------------------+------------------------------+----------------------+--------------|
+| 0->1 | Pendant x 17          |                              |                      |              |
+| 1->2 | Shell x 14            | Flashlight x 11              |                      |              |
+| 2->3 | Bent Teaspoon x 1     | Chaplin's Bowler Hat x 5     |                      |              |
+| 3->4 | Baseball x ?          | Small Spinning Top x ?       | Black Swan 7         |              |
+| 4->5 | Crystal Slippers x 10 | Compressed Oxyegn Bottle x 6 | Worn Alpenstock x 15 | Red Cape x 8 |
+
+*** Dinopark ?
+
+|------+---------------------+----------------------+---------------------+--------|
+| Lv.  | Prop 1              | Prop 2               | Prop 3              | Prop 4 |
+|------+---------------------+----------------------+---------------------+--------|
+| 0->1 | Bat x 19            |                      |                     |        |
+| 1->2 | Revolver x 11       | Robin Hood's Bow x 7 |                     |        |
+| 2->3 | Predator's Mask x 4 | Dalmatian Pup x 7    |                     |        |
+| 3->4 | Model Airplane x 8  | Leather Cloak x 3    | Fogged-up glass x 5 |        |
+| 4->5 | Backpack x          | Lime and Tequila     |                     |        |
+
+*** Dwarven Throne ?
+
+|------+----------------+--------------------+--------------+---------------|
+| Lv.  | Prop 1         | Prop 2             | Prop 3       | Prop 4        |
+|------+----------------+--------------------+--------------+---------------|
+| 1    |                |                    |              |               |
+| 2    |                |                    |              |               |
+| 2->3 | Magic Wand x 3 | Tomahawk x 5       |              |               |
+| 3->4 | Scepter x 5    | Maltese Knife x 25 | Queen x 5    |               |
+| 4->5 | Rope x 25      | Stone Car x 7      | Crossbow x 3 | Gold Ring x 3 |
+
+*** Fedville
+
+|------+------------------------+-----------------+-----------+----------|
+| Lv.  | Prop 1                 | Prop 2          | Prop 3    | Prop 4   |
+|------+------------------------+-----------------+-----------+----------|
+| 0->1 | Badge x 15             |                 |           |          |
+| 1->2 | Horseshoe x 5          | Football x 3    |           |          |
+| 2->3 | Motorcycle Sticker x 2 | Ice pick x 3    |           |          |
+| 3->4 | Stone Car x 5          | Helm [Moto] x 4 | Queen x 4 |          |
+| 4->5 | The Tomahawk x 4       | Smiling cat x 6 | Ghost x 7 | Key x 11 |
+|------+------------------------+-----------------+-----------+----------|
+
+*** Flyaway House
+
+|------+---------------+---------------------------+-------------+---------------------|
+| Lv.  | Prop 1        | Prop 2                    | Prop 3      | Prop 4              |
+|------+---------------+---------------------------+-------------+---------------------|
+| 0->1 | Badge x 1     |                           |             |                     |
+| 1->2 | Baseball x 3  | Shell x 3                 |             |                     |
+| 2->3 | Videotape x 7 | Jet Skateboard x 11       |             |                     |
+| 3->4 | Batteries x 5 | Compressed Air Bottle x 5 | Balloon x 5 |                     |
+| 4->5 | Radio Set x 7 | White Feather x 7         | Camera x 5  | Pilot's glasses x 5 |
+|------+---------------+---------------------------+-------------+---------------------|
+
+*** The Grand Staircase NG?
+
+|------+-------------------+----------------------+---------------------+--------------------|
+| Lv.  | Prop 1            | Prop 2               | Prop 3              | Prop 4             |
+|------+-------------------+----------------------+---------------------+--------------------|
+|      |                   |                      |                     |                    |
+| 1    | Pendant x 1       |                      |                     |                    |
+| 2    | Ice pick x 3      | Bat x 1              |                     |                    |
+| 3->4 | Amphora x 5       | Ancient Watch x 12   | Opera Mask x 5      |                    |
+| 4->5 | Chocolate Bar x 3 | Roleplaying Mask x 3 | Fogged up Glass x 3 | Bloody Diamond x 3 |
+|------+-------------------+----------------------+---------------------+--------------------|
+
+*** Graveyard of the Sea ?
+
+|------+---------------------+-----------------+----------------------+----------|
+| Lv.  | Prop 1              | Prop 2          | Prop 3               | Prop 4   |
+|------+---------------------+-----------------+----------------------+----------|
+| 1    |                     |                 |                      |          |
+|      |                     |                 |                      |          |
+| 2->3 | Predator's Mask x 2 | Ficus x 4       |                      |          |
+| 3->4 | Flashlight x 3      | Hockey Mask x 3 | Schorched Banner x 3 |          |
+| 4->5 | Army Knife x 9      | Amphora x 3     | Automatic Weapon x 3 | Crow x 3 |
+|------+---------------------+-----------------+----------------------+----------|
+
+*** K-19 ?
+
+|------+-----------------------------+----------------+---------------------+----------------|
+| Lv.  | Prop 1                      | Prop 2         | Prop 3              | Prop 4         |
+|------+-----------------------------+----------------+---------------------+----------------|
+| 1    |                             |                |                     |                |
+| 2    |                             |                |                     |                |
+| 2->3 | Adrenaline Syringe x 3      | Flashlight x 3 |                     |                |
+| 3->4 | Army Knife x 3              | Backpack x 3   | Flippers x 3        |                |
+| 4->5 | 6-Barrelled Machine Gun x 3 | Fake Gun x 3   | Scorched Banner x 3 | Lightsaber x 3 |
+|      |                             |                |                     |                |
+
+*** Lost Hut ?NG
+
+|------+----------------------+----------------+------------------+----------|
+|  Lv. | Prop 1               | Prop 2         | Prop 3           | Prop 4   |
+|------+----------------------+----------------+------------------+----------|
+|    1 |                      |                |                  |          |
+|    2 |                      |                |                  |          |
+|    3 |                      |                |                  |          |
+| 3->4 | Robin Hood's Bow x 7 | Golden Gun x 3 | The Tomahawk x 3 |          |
+| 4->5 | Badge x 3            | Mask x 3       | Pipe x 3         | Whip x 3 |
+
+*** Pandora
+
+|------+-------------------+-----------------+----------------------+----------|
+| Lv.  | Prop 1            | Prop 2          | Prop 3               | Prop 4   |
+|------+-------------------+-----------------+----------------------+----------|
+| 0->1 | Treasure map x 17 |                 |                      |          |
+| 1->2 | Rope x 12         | Helm x 9        |                      |          |
+| 2->3 | Chainsaw x 3      | Ficus x 11      |                      |          |
+| 3->4 | Flashlight x 7    | Hockey Mask x 6 | Scorched Banner x 5  |          |
+| 4->5 | Army Knife x 13   | Amphora x 9     | Automatic Weapon x 8 | Crow x 5 |
+|------+-------------------+-----------------+----------------------+----------|
+
+*** Pirate Island ?
+
+|------+-------------------+---------------------+------------------+--------|
+| Lv.  | Prop 1            | Prop 2              | Prop 3           | Prop 4 |
+|------+-------------------+---------------------+------------------+--------|
+| 0->1 | Treasure map x 1  |                     |                  |        |
+| 1->2 | Perambulator x 2  | Helm [Military] x 2 |                  |        |
+| 2->3 | Dalmatian Pup x 3 | Iron Mask x 3       |                  |        |
+| 3->4 | The Tricorn x 3   | Signet Ring x 3     | Ballet Shoes x 3 |        |
+| 4->5 |                   |                     |                  |        |
+
+*** School of Magic
+
+|------+------------------------+-------------------+---------------+----------|
+| Lv.  | Prop 1                 | Prop 2            | Prop 3        | Prop 4   |
+|------+------------------------+-------------------+---------------+----------|
+| 0->1 | Cupid's Bow x 14       |                   |               |          |
+| 1->2 | White Gloves x 9       | The Tricorn x 6   |               |          |
+| 2->3 | Red and Blue Pills x 3 | Ancient Watch x 1 |               |          |
+| 3->4 | Foot Irons x 1         | Magic Wand x 1    | Pigeon x 1    |          |
+| 4->5 | Helm [military] x 1    | Scepter x 1       | Face Mask x 1 | Sign x 1 |
+|------+------------------------+-------------------+---------------+----------|
+
+*** Shrine ?
+
+|-----+----------------------+------------------------+----------------+--------------|
+| Lv. | Prop 1               | Prop 2                 | Prop 3         | Prop 4       |
+|-----+----------------------+------------------------+----------------+--------------|
+|   1 |                      |                        |                |              |
+|   2 |                      |                        |                |              |
+|   3 |                      |                        |                |              |
+|   4 |                      |                        |                |              |
+|   5 | Crystal Slippers x 5 | Small Spinning Top x 5 | Black Swan x 5 | Red Cape x 5 |
+
+*** Stone Gate
+
+|------+------------------+----------------------+-----------------+-----------------------|
+| Lv.  | Prop 1           | Prop 2               | Prop 3          | Prop 4                |
+|------+------------------+----------------------+-----------------+-----------------------|
+| 0->1 | Mummy x 1        |                      |                 |                       |
+| 1->2 | Army Knife x 2   | Robin Hood's Bow x 1 |                 |                       |
+| 2->3 | Backpack x 3     | Maltese Knife x 3    |                 |                       |
+| 3->4 | Bat x 3          | White Feather x 3    | Black Swan x 3  |                       |
+| 4->5 | Crystal Ball x 3 | Tomahawk x 3         | Loki's Mask x 3 | Barbarian's Sword x 3 |
+
+*** Temple of the Ancients ?
+
+|------+-------------------+-------------------+--------+--------|
+|  Lv. | Prop 1            | Prop 2            | Prop 3 | Prop 4 |
+|------+-------------------+-------------------+--------+--------|
+| 0->1 | Black Obelisk x 5 |                   |        |        |
+| 1->2 | Ghost x 5         | Case [Guitar] x 2 |        |        |
+|    3 |                   |                   |        |        |
+|    4 |                   |                   |        |        |
+|    5 |                   |                   |        |        |
+
+*** Town Hall with Clock
+
+|------+--------------+--------------------+--------+--------|
+|  Lv. | Prop 1       | Prop 2             | Prop 3 | Prop 4 |
+|------+--------------+--------------------+--------+--------|
+|    1 |              |                    |        |        |
+| 2->3 | Umbrella x 9 | Space Dollars x 22 |        |        |
+|    3 |              |                    |        |        |
+|    4 |              |                    |        |        |
+|    5 |              |                    |        |        |
+
+*** Vampire Castle ?
+
+|-----+----------------+-----------+---------------+------------------|
+| Lv. | Prop 1         | Prop 2    | Prop 3        | Prop 4           |
+|-----+----------------+-----------+---------------+------------------|
+|   1 |                |           |               |                  |
+|   2 |                |           |               |                  |
+|   3 |                |           |               |                  |
+|   4 | Pendant x ?    |           |               |                  |
+|   5 | Foot Irons x 3 | Rifle x 3 | Face Mask x 3 | Bladed Glove x 3 |
+*** Wedding Arbor ?NG
+
+|------+---------------+-----------------+---------------+------------------|
+| Lv.  | Prop 1        | Prop 2          | Prop 3        | Prop 4           |
+|------+---------------+-----------------+---------------+------------------|
+|      |               |                 |               |                  |
+| 1    |               |                 |               |                  |
+| 2    | Batteries x 3 | Plush Heart x 5 |               |                  |
+| 3->4 | Ficus x 3     | Rose Petals x 3 | Pink Soap x 3 |                  |
+| 4->5 | Cup x 3       | Balloon x 3     | Candle x 3    | Wedding Ring x 3 |
+
+*** Wonderland ?
+
+|------+--------------+-------------------+--------+--------|
+| Lv.  | Prop 1       | Prop 2            | Prop 3 | Prop 4 |
+|------+--------------+-------------------+--------+--------|
+| 0->1 | Cup x 7      |                   |        |        |
+| 1->2 | Blaster x 3  | Space Dollars x 7 |        |        |
+| 2->3 | Football x 5 | Black Swan x 5    |        |        |
+| 4    |              |                   |        |        |
+| 5    |              |                   |        |        |
+
+*** Wreckage ?NG
+
+|------+---------------------+-----------------+-------------------+---------------|
+|  Lv. | Prop 1              | Prop 2          | Prop 3            | Prop 4        |
+|------+---------------------+-----------------+-------------------+---------------|
+|    1 |                     |                 |                   |               |
+|    2 |                     |                 |                   |               |
+|    3 |                     |                 |                   |               |
+| 3->4 | Fogged-up Glass x 7 | Plush Heart x 9 | Chocolate Bar x 9 |               |
+| 4->5 | Pendant x 20        | Rose Petals x 8 | Joker Card x 5    | Lifesaver x 5 |
+|------+---------------------+-----------------+-------------------+---------------|
+
+
+** Props and the Sets that Drop them
 
 ? = probably incomplete
 
@@ -435,7 +475,7 @@ I have not been able to figure out if the genre level affects scoring.
 | Amphora                  | Titanic Wreckage     | Zombie Well          | Secret Cave             | Ranger's House |                    |
 | Ancient Watch            | Titanic Wreckage     | Secret Bunker        | Count's Pond            | Police         |                    |
 | Army Knife               | Duke's Castle        | Gargoyle's House     | Zeppelin                | Patrol         |                    |
-| Automatic Weapon         | Ruins                | Busted Tank          | Old Dam                 | Ghost Patrol   |                    |
+| Automatic Weapon [blast] | Ruins                | Busted Tank          | Old Dam                 | Ghost Patrol   |                    |
 | Backpack                 | Minotaur's Labyrinth | Fallen Plane         | Train Robbery           | Orc            | Pterodactyl        |
 | Badge                    | Toy Car              | Crash of Flight 815  | Anaconda Creek          | Diplodocus     |                    |
 | Ballet Shoes             | Versailles           | Fallen Plane         | Venice Bridge           | Suburb         |                    |
@@ -448,17 +488,17 @@ I have not been able to figure out if the genre level affects scoring.
 | Black Obelisk            | Dinosaur Graveyard   | Crypt                | Luxor                   | British House  |                    |
 | Black Swan               | Cannibal Village     | Lifeboat             | Anaconda Creek          | Glowing Forest |                    |
 | Bladed Glove ?           | Luxor                |                      |                         |                |                    |
-| Blaster ?                |                      | Secret Bunker        | Ruins                   | Ghost Patrol   |                    |
+| Blaster                  | Secret Bunker        | Ruins                |                         | Pterodactyl    |                    |
 | Bloody Diamond           | Titanic Wreckage     | Count's Pond         | Crypt                   | Diplodocus     |                    |
 | Boxer Gloves             | Crash of Flight 815  | Toy Car              | Secret Cave             | Ghost Patrol   | British House      |
 | Camera ?                 | City of the Future   |                      |                         |                |                    |
 | Candle                   | Versailles           | Missing Sailboat     | Crypt                   |                | Walking Tree       |
-| Case [Guitar] ?          |                      |                      | Old Dam                 |                |                    |
+| Case [Guitar]            | Zeppelin             | Train Robbery        | Old Dam                 | Patrol         |                    |
 | Chainsaw                 | Battle Mech          |                      |                         |                |                    |
 | Chaplin's Bowler Hat     | Toy Car              | Lifeboat             | Dinosaur Graveyard      | Kings Cross    |                    |
 | Chocolate Bar            | City of the Future   | Titanic Wreckage     | Versailles              |                |                    |
-| Clown's Mask ?           | Anaconda Creek       | Crypt                | Gargoyle's House        | Luxor          |                    |
-| Compass ?                |                      |                      | Death from Swamps       | Battle Mech    |                    |
+| Clown's Mask             | Anaconda Creek       | Crypt                | Gargoyle's House        | Luxor          | British House      |
+| Compass                  | Death from Swamps    | Dinosaur Graveyard   | Crypt                   | Battle Mech    | Fishes             |
 | Compressed Air Bottle    | Crash of Flight 815  | Zeppelin             | Ghost Patrol            | Train Robbery  | Patrol             |
 | Crossbow                 | Anaconda Creek       | Island of Skeletons  | Old Dam                 | Orc            | Patrol             |
 | Crow                     | Cannibal Village     | Gargoyle's House     | Venice Bridge           | Walking Tree   |                    |
@@ -469,7 +509,7 @@ I have not been able to figure out if the genre level affects scoring.
 | Dalmatian Pup            | Toy Car              | Cannibal Village     | Lifeboat                | Patrol         |                    |
 | Death Mask  ?            |                      |                      |                         |                |                    |
 | Face Mask                | Missing Sailboat     | Busted Tank          | Zeppelin                | Patrol         |                    |
-| Facepiece Respirator ?   |                      |                      | Island of Skeletons     |                |                    |
+| Facepiece Respirator     | City of the Future   | Gargoyle's House     | Island of Skeletons     | Ranger's House |                    |
 | Fake Gun                 | Titanic Wreckage     | Minotaur's Labyrinth | Duke's Castle           | Diplodocus     |                    |
 | Ficus                    | Lifeboat             | Secret Cave          | Anaconda Creek          |                | Giant Spider       |
 | Flashlight               | Gargoyle's House     | Venice Bridge        | Old Dam                 | Battle Mech    |                    |
@@ -481,10 +521,11 @@ I have not been able to figure out if the genre level affects scoring.
 | Gladiator Helmet         | Minotaur's Labyrinth | Island of Skeletons  | Venice Bridge           | Lumber Mill    |                    |
 | Gold Ring                | Titanic Wreckage     | Ruins                | Train Robbery           | Diplodocus     |                    |
 | Golden Gun               | Crash of Flight 815  | Busted Tank          | Train Robbery           | Gunship        |                    |
-| Green Jelly/Slime ?      |                      |                      |                         | Ghost Patrol   |                    |
+| Green Jelly/Slime        | Count's Pond         | Dinosaur Graveyard   | Secret Cave             | Ghost Patrol   |                    |
 | Grey Mouse               | Cannibal Village     | Titanic Wreckage     | Death from Swamps       | Walking Tree   |                    |
+| The Hat                  | Luxor                | Ruins                | Zeppelin                | Police         |                    |
 | Helm [moto]              | Fallen Plane         | Venice Bridge        | Train Robbery           | Gunship        |                    |
-| Helm [soldier] ?         | Fallen Plane         | zombie well          |                         |                |                    |
+| Helm [military]          | Fallen Plane         | Zombie Well          | Island of Skeletons     |                |                    |
 | Hockey Mask              | City of the Future   | Death from Swamps    | Venice Bridge           | Kings Cross    |                    |
 | Horseshoe                | Missing Sailboat     | Anaconda Creek       | Ruins                   | Orc            | Seagulls           |
 | Ice Pick                 | Crash of Flight 815  | Toy Car              | Death from Swamps       | Giant Spider   |                    |
@@ -492,21 +533,21 @@ I have not been able to figure out if the genre level affects scoring.
 | Jet Skateboard           | Toy Car              | Versailles           | Busted Tank             |                |                    |
 | Joker Card               | Crash of Flight 815  | Zombie Well          | Island of Skeletons     | Walking Tree   | Lumber Mill        |
 | Key                      | Anaconda Castle      | Busted Tank          | Ruins                   | Glowing Forest | Fishes             |
-| Leather Cloak ?          |                      |                      |                         |                |                    |
+| Leather Cloak            |                      |                      |                         |                | Pterodactyl        |
 | Lifesaver                | Titanic Wreckage     | Lifeboat             | Island of Skeletons     | Police         | Fishes             |
 | Lightsaber               | City of the Future   | Luxor                | Busted Tank             | Ghost Patrol   |                    |
 | Lime and Tequila ?       |                      |                      |                         |                |                    |
 | Lockpick ?               |                      |                      |                         |                |                    |
 | Loki's Mask              | Ruins                | Crypt                | Gargoyle's House        | Ranger's House |                    |
 | Magic Wand               | Walking Tree         | Suburb               |                         |                |                    |
-| Magnifier ?              |                      |                      |                         |                |                    |
+| Magnifier                | Toy Car              | Missing Sailboat     | Dinosaur Graveyard      | Seagulls       |                    |
 | Maltese Knife            | Minotaur's Labyrinth | Zombie Well          | Duke's Castle           | Diplodocus     |                    |
 | Mask                     | Secret Bunker        | Gargoyle's House     | Island of Skeletons     | Battle Mech    | Lumber Mill        |
-| Model Airplane ?         |                      | Fallen Plane         |                         | GHost Patrol   |                    |
+| Model Airplane           | Busted Tank          | Fallen Plane         | Zeppelin                | Gunship        |                    |
 | Motorcycle Sticker       | Lumber Mill          |                      |                         |                |                    |
-| Mummmy ?                 | City of the Future   |                      | Minotoaur's Labyrinth   | Ghost Patrol + |                    |
+| Mummy                    | City of the Future   | Zombie Well          | Minotoaur's Labyrinth   | Ghost Patrol   | Kings Cross        |
 | Opera Mask               | City of the Future   | Crypt                | Secret Cave             | Seagulls       |                    |
-| Perambulator ... ?       | Crash of Flight 815  | Count's Pond         | Old Dam                 | Battle Mech    |                    |
+| Perambulator & Tommy Gun | Crash of Flight 815  | Count's Pond         | Old Dam                 | Battle Mech    |                    |
 | Pigeon ?                 |                      | Secret Cave          | Dinosaur Graveyard      |                |                    |
 | Pilot's Glasses ?        |                      | Old Dam              |                         |                |                    |
 | Pink Soap                | Minotaur's Labyrinth | Fallen Plane         | Venice Bridge           | Giant Spider   | British House      |
@@ -517,19 +558,19 @@ I have not been able to figure out if the genre level affects scoring.
 | Radio Set ?              |                      | Train Robbery        | Island of Skeletons     | Ghost Patrol   |                    |
 | Red and Blue Pills       | British House        |                      |                         |                |                    |
 | Red Cape                 | Zombie Well          | Anaconda Creek       | Fallen Plane            | Ghost Patrol   |                    |
-| Revolver ?               |                      |                      |                         |                |                    |
+| Revolver                 | Death from Swamps    | Crypt                | Venice Bridge           |                | Pterodactyl        |
 | Rifle ?                  |                      |                      | Death from Swamps       |                |                    |
 | Robin Hood's Bow         | Secret Bunker        | Minotaur's Labyrinth | Zombie Well             | Ranger's House |                    |
 | Roleplaying Mask         | Cannibal Village     | Fallen Plane         | Secret Bunker           | Suburb         |                    |
-| Rope                     |                      | Busted Tank          | Island of Skeletons     | King's Cross   | Venice Bridge      |
+| Rope                     |                      | Busted Tank          | Island of Skeletons     | Kings Cross    | Venice Bridge      |
 | Rose Petals              | Versailles           | Count's Pond         | Old Dam                 | Fishes         |                    |
 | Sankara Stone ?          |                      |                      | Duke's Castle           |                |                    |
 | Sapphire Heart / Pendant | Titanic Wreckage     | Count's Pond         | Lifeboat                |                |                    |
 | Scepter                  | Missing Sailboat     | Gargoyle's House     | Venice Bridge           | Lumber Mill    |                    |
 | Scorched Banner          | Zombie Well          | Fallen Plane         | Zeppelin                | Battle Mech    | Suburb             |
 | Shell                    | Dinosaur Graveyard   | Secret Bunker        | Old Dam                 | Fishes         |                    |
-| Sign ?                   |                      |                      |                         |                |                    |
-| Signet Ring ?            | Luxor                |                      |                         |                |                    |
+| Sign                     | Secret Bunker        | Crash of Flight 815  | Gargoyle's House        | Giant Spider   |                    |
+| Signet Ring              | City of the Future   | Lifeboat             | Luxor                   |                |                    |
 | Six-Barreled Machine Gun | Secret Bunker        | Lifeboat             | Anaconda Creek          | Battle Mech    |                    |
 | Small Spinning Top       | Toy Car              | Dinosaur Graveyard   | Old Dam                 | Police         |                    |
 | Smiling Cat              | Cannibal Village     | Secret CaveI         | Old Dam                 | Glowing Forest |                    |
@@ -538,7 +579,6 @@ I have not been able to figure out if the genre level affects scoring.
 | Stone Car                | Toy Car              | Ruins                | Island of Skeletons     | Lumber Mill    |                    |
 | Stranger's Mask ?        |                      |                      |                         |                |                    |
 | Symbolic Stone ?         |                      |                      |                         |                |                    |
-| The Hat                  | Luxor                | Ruins                | Zeppelin                | Police         |                    |
 | The Tomahawk             | Minotaur's Labyrinth | Island of Skeletons  | Gargoyle's House        | Gunship        | Ranger's House     |
 | Treasure Map             | Anaconda Creek       | Secret Cave          | Fishes                  | Orc            | Train Robbery      |
 | The Tricorn              | Minotaur's Labyrinth | Ruins                | Missing Sailboat        | Walking Tree   | Ranger's House     |
@@ -546,13 +586,12 @@ I have not been able to figure out if the genre level affects scoring.
 | Violin                   | Missing Sailboat     | Kings Cross          | Duke's Castle           | Ghost Patrol   | Train Robbery      |
 | Wedding Ring             | Versailles           | Crypt                | Duke's Castle           | Kings Cross    |                    |
 | Whip                     | Crash of Flight 815  | Busted Tank          | Zeppelin                | Patrol         | Pterodactyl        |
-| White Feather ?          |                      |                      |                         |                |                    |
+| White Feather            | Lifeboat             | Luxor                | Busted Tank             | Giant Spider   | Glowing Forest     |
 | White Gloves             | Lifeboat             | Fallen Plane         | Missing Sailboat        | Fallen Plane   | Lumber Mill        |
-| Worn Alpenstock ?        |                      |                      |                         |                |                    |
-| Umbrella ?               |                      |                      |                         |                |                    |
+| Worn Alpenstock          | Crypt                | Secret Cave          | Old Dam                 | -              | -                  |
+| Umbrella                 | -                    | -                    | -                       | -              | -                  |
 
-
-** Prop Gifting Reward Value (INCOMPLETE)
+** Prop Gifting Reward Value
 
 Note: The actual cash value received seems to be multipled by a factor related to your level. See main FAQ.
 
@@ -560,22 +599,25 @@ In decreasing order of value. Correlated to rarity but not totally.
 
 *** 400 XP / 12,500
 
+- Banjo
 - Blood Diamond
 - Boxed Gloves
 - Crow
 - Death Mask
 - Gladiator Helmet
 - Lifesaver
+- Lime and Tequila
 - Pilot's Glasses
 - Red Cape
 - Smiling Cat
+- Symbolic Stone
 - Whip
 
 *** 300 XP  / 10,000 gamebucks
 
-- Automatic Weapon
+- Automatic Weapon [blaster]
 - Balloon [don't gift these - see FAQ]
-xs- Crossbow
+- Crossbow
 - Face Mask
 - Flippers
 - Fogged-Up Glass
@@ -584,6 +626,7 @@ xs- Crossbow
 - Key
 - Loki's Mask
 - Mask
+- Opera Mask
 - Pigeon
 - Pink Soap
 - Sankara Stone
@@ -597,6 +640,7 @@ xs- Crossbow
 
 - Adrenaline Syringe
 - Amphora
+- Automatic Weapon [military]
 - Backpack
 - Bent Teaspoon
 - Black Swan
@@ -617,6 +661,7 @@ xs- Crossbow
 - Red and Blue Pills
 - Rifle
 - Roleplaying Mask
+- Rose Petals
 - Scepter
 - Signet Ring
 - Spiked Mask
@@ -667,11 +712,45 @@ xs- Crossbow
 - Radio Set
 - Robin Hood's Bow
 - Rope
+- Shell
 - Treasure Map
 - Videotape
 - White Gloves
 
+  
+
 * Prizes
+
+
+** Genre rewards (INCOMPLETE)
+
+Unless otherwise noted, Genre upgrade rewards are:
+
+Level 1->2: 25,000
+Level 2->3: 50,000
+Level 3->4: 100,000 (?)
+Level 4->5: 200,000
+Level 5->6: 500,000
+
+I have not been able to figure out if the genre level affects scoring. 
+
+|-----------------+------------+--------------+-------------------|
+| Genre           | Level 3->4 | Level 4->5   | Level 5->6        |
+|-----------------+------------+--------------+-------------------|
+| Action          |            |              |                   |
+| Adventure       |            | Laura Statue |                   |
+| Biography       |            |              |                   |
+| Comedy          |            |              | Chaplin Statue    |
+| Crime           |            |              | Gangster Statue   |
+| Drama           |            | Girl Statue  |                   |
+| Fantasy         |            |              |                   |
+| Horror          |            |              | Somebody's Statue |
+| Mystery         |            | Ghost Statue |                   |
+| Romance         |            |              |                   |
+| Science Fiction | 1 gold     |              |                   |
+| Thriller        |            |              |                   |
+| War             | 1 gold     |              |                   |
+|-----------------+------------+--------------+-------------------|
 
 ** Lottery Prizes
 
@@ -689,23 +768,14 @@ These are some of the cards I have seen:
 ** Random Gift Prizes
 
 - Magic hat (Coin-dropping Decoration)
-- Small Spinning Top
-- Dating Fountain
 - Gold: 1,2,3
-- Automatic Weapon
 - Lifeboat
 - Flash Hint: 1
 - Chain Hint: 3
-- Joker Card (prop)
-- Pink Soap (prop)
-- Small Spinning Top (prop)
-- Automatic Weapon (prop)
-- Secret Bunker
-- Greek Theater
-- Sun Dial
 - Game cash: $200,000, $300,000
-
-
+- Sets: Secret Bunker
+- Decorations: Greek Theater, Sun Dial, Dating Fountain
+- Props: Joker Card, Pink Soap, Small Spinning Top, Automatic Weapon
 
 * Actors
 
